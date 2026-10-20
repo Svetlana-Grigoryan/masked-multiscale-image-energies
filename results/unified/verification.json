@@ -1,0 +1,19 @@
+{
+  "bibliography_entries_all_cited": 44,
+  "unique_labels_resolved": 148,
+  "authors": 4,
+  "current_compilation_log_clean": true,
+  "unchanged_historical_records": 106,
+  "validation.csv_rows_reconstructed": 500,
+  "validation.csv_rank_arrays": 100,
+  "nasa_low_snr.csv_rows_reconstructed": 300,
+  "nasa_low_snr.csv_rank_arrays": 60,
+  "paired_contrasts_reconstructed": 30,
+  "historical_paired_contrasts": 3,
+  "workflow_processes": 36,
+  "direct_tree_complete_rank_hashes_equal": true,
+  "high_precision_masks": 7,
+  "high_precision_profiles": 7693,
+  "NASA_source_hash_verified": true,
+  "scope": "Saved arrays reconstructed; not a full rerun of all stochastic experiments or certification of novelty."
+}

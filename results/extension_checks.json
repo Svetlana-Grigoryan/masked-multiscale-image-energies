@@ -1,0 +1,16 @@
+{
+  "tree_masks_checked": 335,
+  "tree_gram_max_abs_error": 0.0,
+  "centered_cov_max_abs_error": 0.0,
+  "dense_centered_cov_max_abs_error": 1.1102230246251565e-16,
+  "iid_cov_max_abs_error": 4.440892098500626e-16,
+  "hierarchies_checked": 40,
+  "regular_hierarchies": 25,
+  "nonregular_hierarchies": 15,
+  "regenerated_centered_fresh_trials": 12,
+  "regenerated_rank_max_abs_error": 0.0,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39"
+}

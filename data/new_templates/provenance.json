@@ -1,0 +1,30 @@
+{
+  "source_url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/astronaut.png",
+  "documentation": "https://scikit-image.org/docs/0.25.x/api/skimage.data.html#skimage.data.astronaut",
+  "credit": "NASA, photograph of Eileen Collins; distributed in scikit-image 0.25.2",
+  "rights": "Public domain according to scikit-image documentation; NASA source credit retained",
+  "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+  "stored_shape": [
+    512,
+    512,
+    3
+  ],
+  "sampling": "pixel centers 4+8k, k=0..63; no interpolation",
+  "grayscale_weights": [
+    0.2126,
+    0.7152,
+    0.0722
+  ],
+  "null": "controlled added Gaussian noise after fixed mask centering",
+  "limitations": "A second public photographic template, not a second satellite scene or a sensor-noise validation",
+  "seed_stream": [
+    20261111
+  ],
+  "banks": 10,
+  "b": 999,
+  "R": 500,
+  "rhos": [
+    0.0,
+    0.1
+  ]
+}

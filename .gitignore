@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+/main.aux
+/main.out
+/main.log
+/complete-*.tmp
+.DS_Store

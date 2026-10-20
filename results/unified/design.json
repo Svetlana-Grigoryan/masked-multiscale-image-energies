@@ -1,0 +1,21 @@
+{
+  "B": 999,
+  "banks": 10,
+  "observations_per_bank": 500,
+  "rhos": [
+    0.0,
+    0.1
+  ],
+  "methods": [
+    "H_upper",
+    "Q_upper",
+    "V_upper",
+    "H_tails_V",
+    "Q_V"
+  ],
+  "seed_streams": [
+    20261111,
+    20261112
+  ],
+  "status": "Fixed at implementation before executing the new experiments; Q+V was suggested after historical studies, not retrospectively preregistered"
+}

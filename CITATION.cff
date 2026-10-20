@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this version of the software and numerical research records when reusing them."
+type: software
+title: "Masked Multiscale Image Energies: Code, Data, and Numerical Records"
+version: "1.0.0"
+authors:
+  - family-names: Episkoposian
+    given-names: Sergo A.
+    orcid: "https://orcid.org/0000-0002-8811-2247"
+  - family-names: Grigoryan
+    given-names: Svetlana Artur
+    orcid: "https://orcid.org/0009-0005-9198-2816"
+  - family-names: Hovhannisyan
+    given-names: Davit Samvel
+    orcid: "https://orcid.org/0009-0002-6723-9588"
+  - family-names: Sirakanyan
+    given-names: Spartak Sevak
+    orcid: "https://orcid.org/0009-0001-5196-0090"
+abstract: "Computational implementation, controlled test inputs, and saved numerical records for masked multiscale Haar image energies and calibrated testing. The scholarly manuscript is not distributed."

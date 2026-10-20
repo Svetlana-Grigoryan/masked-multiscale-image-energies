@@ -1,0 +1,237 @@
+{
+  "final_review_checks": {
+    "spectral_protocol": [
+      {
+        "mask": "footprint",
+        "scale": 0.00040169688713968533,
+        "scaled_eigenvalues": [
+          0.0,
+          5.584680458021824e-17,
+          0.0007524302578116162,
+          0.007092944652296556,
+          0.042151855841117566,
+          0.20304828675948564,
+          1.0
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 5,
+        "negative_tolerance": 9.947598300641403e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 32,
+        "nonnegative": true
+      },
+      {
+        "mask": "stripes",
+        "scale": 0.00041372207201236243,
+        "scaled_eigenvalues": [
+          -2.109836069853508e-17,
+          0.0,
+          0.0007309323725211418,
+          0.006889958091827505,
+          0.04095780239618873,
+          0.19263434956110773,
+          1.0000000000000002
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 5,
+        "negative_tolerance": 9.947598300641403e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 27,
+        "nonnegative": true
+      },
+      {
+        "mask": "elliptical_gaps",
+        "scale": 0.0005030199573383765,
+        "scaled_eigenvalues": [
+          0.0,
+          1.3406439863420355e-16,
+          0.0006643900157976265,
+          0.005612584892081808,
+          0.03669949500941533,
+          0.194923460834249,
+          0.9999999999999999
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 5,
+        "negative_tolerance": 9.947598300641403e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 36,
+        "nonnegative": true
+      },
+      {
+        "mask": "L2",
+        "scale": 0.0,
+        "scaled_eigenvalues": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 0,
+        "negative_tolerance": 7.105427357601002e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 0,
+        "nonnegative": true
+      },
+      {
+        "mask": "L3",
+        "scale": 0.0,
+        "scaled_eigenvalues": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 0,
+        "negative_tolerance": 7.105427357601002e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 0,
+        "nonnegative": true
+      },
+      {
+        "mask": "L5",
+        "scale": 0.0001171875,
+        "scaled_eigenvalues": [
+          -1.831853184212583e-14,
+          0.0,
+          2.1020748588993216e-44,
+          1.765239802735088e-14,
+          0.9999999999999998
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 1,
+        "negative_tolerance": 7.105427357601002e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 27,
+        "nonnegative": true
+      },
+      {
+        "mask": "L17",
+        "scale": 0.0005219441006091523,
+        "scaled_eigenvalues": [
+          -9.607823879028488e-16,
+          0.0,
+          1.182826992827885e-15,
+          0.2165879414903158,
+          0.9999999999999999
+        ],
+        "relative_cutoff": 1e-11,
+        "retained_rank": 2,
+        "negative_tolerance": 7.105427357601002e-14,
+        "contraction": "sum of squared factor coordinates",
+        "maximum_rank_change": 0.0,
+        "changed_decisions": 0,
+        "rejected": 31,
+        "nonnegative": true
+      }
+    ],
+    "invalid_covariance_rejected": true,
+    "zero_covariance_rank": 0,
+    "fresh_full_banks_regenerated": [
+      {
+        "mask": "footprint",
+        "reference_count": 999,
+        "observation_count": 300,
+        "rank_arrays_identical": true,
+        "max_statistic_error": 0.0
+      },
+      {
+        "mask": "stripes",
+        "reference_count": 999,
+        "observation_count": 300,
+        "rank_arrays_identical": true,
+        "max_statistic_error": 0.0
+      },
+      {
+        "mask": "elliptical_gaps",
+        "reference_count": 999,
+        "observation_count": 300,
+        "rank_arrays_identical": true,
+        "max_statistic_error": 0.0
+      }
+    ],
+    "fresh_cross_family_conditions_regenerated": 9,
+    "scope": "Clean Python virtual environment; all archived review rows independently reconstructed, and these selected streams regenerated. Not a full rerun of all stochastic studies or independent human replication."
+  },
+  "supplement_all_references_cited": true,
+  "article_authors": [
+    "Sergo A. Episkoposian",
+    "Svetlana Artur Grigoryan",
+    "Davit Samvel Hovhannisyan",
+    "Spartak Sevak Sirakanyan"
+  ],
+  "article_author_count": 4,
+  "authorship_source": "Author-supplied main(20261019-164815).tex",
+  "target": "Journal of Mathematical Imaging and Vision",
+  "class_options": "pdflatex,iicol,sn-mathphys-num",
+  "main_pages": 28,
+  "supplement_pages": 19,
+  "abstract_words": 136,
+  "keywords": 6,
+  "numbered_references": 43,
+  "all_numbered_references_cited": true,
+  "preprints_relocated_to_text": [
+    "BhattacharyyaSong2008",
+    "Orsi2021",
+    "RuzhanskyEpiskoposianYeghoyan2026"
+  ],
+  "original_author_coauthor_works_preserved": 8,
+  "original_labels": 98,
+  "original_labels_preserved": true,
+  "original_result_files_unchanged": 106,
+  "doi_metadata_records_verified": 39,
+  "main_has_no_supplement_aux_dependency": true,
+  "clean_logs": true,
+  "review_checks": {
+    "sensitivity_rows": 112,
+    "max_rank_error": 0.0,
+    "reassociated_rank_max_difference": 0.17500000000000004,
+    "reassociated_max_changed_decisions": 1,
+    "independent_bank_rows": 180,
+    "cross_family_rows": 90,
+    "known_map_trials": 300,
+    "fresh_benchmark_processes": 36,
+    "db2_orthogonality_max_abs": 2.220446049250313e-16
+  },
+  "old_result_checks": {
+    "fresh_audit_rows_verified": 210,
+    "power_rows_verified": 2400,
+    "robustness_rows_verified": 120,
+    "permutation_rows_verified": 72,
+    "compilation_logs_clean": true,
+    "note": "Counts verified from raw p-values; not a certification of novelty or proof correctness."
+  },
+  "paired_checks": {
+    "new_result_rows_verified": 534,
+    "new_raw_files_verified": 96,
+    "maximum_rank_regeneration_error": 0.0,
+    "uncertainty": "Intervals conditional on each shared bank; identical rho-zero signal rows are not independent."
+  },
+  "landsat_checks": {
+    "fresh_audit_rows": 90,
+    "power_rows": 405,
+    "all_power_rank_max_error": 0.0,
+    "fresh_tests_regenerated": 27,
+    "numerical_pairs": 15,
+    "benchmark_rows": 20,
+    "source_hash_verified": true,
+    "note": "Original stochastic studies not rerun. This separate pilot checks simulated added noise, not original Landsat instrument noise."
+  },
+  "limitations": "Analytical review and implementation checks; not formal proof verification, exhaustive priority certification, multiscene validation, or independent human replication."
+}

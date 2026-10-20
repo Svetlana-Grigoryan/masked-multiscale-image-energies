@@ -1,0 +1,20 @@
+{
+  "two_step_hierarchies": {
+    "3": 5,
+    "4": 15,
+    "5": 52,
+    "6": 203
+  },
+  "scalar_two_step_hierarchies": {
+    "3": 5,
+    "4": 15,
+    "5": 42,
+    "6": 128
+  },
+  "three_step_hierarchies_n4": 60,
+  "scalar_three_step_hierarchies_n4": 60,
+  "maximum_identity_error": 1.1102230246251565e-16,
+  "multipixel_profile_error": 0.0,
+  "python": "3.12.14",
+  "numpy": "2.3.5"
+}

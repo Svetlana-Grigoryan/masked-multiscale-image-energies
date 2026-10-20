@@ -1,0 +1,11 @@
+{
+  "sensitivity_rows": 112,
+  "max_rank_error": 0.0,
+  "reassociated_rank_max_difference": 0.17500000000000004,
+  "reassociated_max_changed_decisions": 1,
+  "independent_bank_rows": 180,
+  "cross_family_rows": 90,
+  "known_map_trials": 300,
+  "fresh_benchmark_processes": 36,
+  "db2_orthogonality_max_abs": 2.220446049250313e-16
+}

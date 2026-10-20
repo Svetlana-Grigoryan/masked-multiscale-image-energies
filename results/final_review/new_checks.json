@@ -1,0 +1,170 @@
+{
+  "spectral_protocol": [
+    {
+      "mask": "footprint",
+      "scale": 0.00040169688713968533,
+      "scaled_eigenvalues": [
+        0.0,
+        5.584680458021824e-17,
+        0.0007524302578116162,
+        0.007092944652296556,
+        0.042151855841117566,
+        0.20304828675948564,
+        1.0
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 5,
+      "negative_tolerance": 9.947598300641403e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 32,
+      "nonnegative": true
+    },
+    {
+      "mask": "stripes",
+      "scale": 0.00041372207201236243,
+      "scaled_eigenvalues": [
+        -2.109836069853508e-17,
+        0.0,
+        0.0007309323725211418,
+        0.006889958091827505,
+        0.04095780239618873,
+        0.19263434956110773,
+        1.0000000000000002
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 5,
+      "negative_tolerance": 9.947598300641403e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 27,
+      "nonnegative": true
+    },
+    {
+      "mask": "elliptical_gaps",
+      "scale": 0.0005030199573383765,
+      "scaled_eigenvalues": [
+        0.0,
+        1.3406439863420355e-16,
+        0.0006643900157976265,
+        0.005612584892081808,
+        0.03669949500941533,
+        0.194923460834249,
+        0.9999999999999999
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 5,
+      "negative_tolerance": 9.947598300641403e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 36,
+      "nonnegative": true
+    },
+    {
+      "mask": "L2",
+      "scale": 0.0,
+      "scaled_eigenvalues": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 0,
+      "negative_tolerance": 7.105427357601002e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 0,
+      "nonnegative": true
+    },
+    {
+      "mask": "L3",
+      "scale": 0.0,
+      "scaled_eigenvalues": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 0,
+      "negative_tolerance": 7.105427357601002e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 0,
+      "nonnegative": true
+    },
+    {
+      "mask": "L5",
+      "scale": 0.0001171875,
+      "scaled_eigenvalues": [
+        -1.831853184212583e-14,
+        0.0,
+        2.1020748588993216e-44,
+        1.765239802735088e-14,
+        0.9999999999999998
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 1,
+      "negative_tolerance": 7.105427357601002e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 27,
+      "nonnegative": true
+    },
+    {
+      "mask": "L17",
+      "scale": 0.0005219441006091523,
+      "scaled_eigenvalues": [
+        -9.607823879028488e-16,
+        0.0,
+        1.182826992827885e-15,
+        0.2165879414903158,
+        0.9999999999999999
+      ],
+      "relative_cutoff": 1e-11,
+      "retained_rank": 2,
+      "negative_tolerance": 7.105427357601002e-14,
+      "contraction": "sum of squared factor coordinates",
+      "maximum_rank_change": 0.0,
+      "changed_decisions": 0,
+      "rejected": 31,
+      "nonnegative": true
+    }
+  ],
+  "invalid_covariance_rejected": true,
+  "zero_covariance_rank": 0,
+  "fresh_full_banks_regenerated": [
+    {
+      "mask": "footprint",
+      "reference_count": 999,
+      "observation_count": 300,
+      "rank_arrays_identical": true,
+      "max_statistic_error": 0.0
+    },
+    {
+      "mask": "stripes",
+      "reference_count": 999,
+      "observation_count": 300,
+      "rank_arrays_identical": true,
+      "max_statistic_error": 0.0
+    },
+    {
+      "mask": "elliptical_gaps",
+      "reference_count": 999,
+      "observation_count": 300,
+      "rank_arrays_identical": true,
+      "max_statistic_error": 0.0
+    }
+  ],
+  "fresh_cross_family_conditions_regenerated": 9,
+  "scope": "Clean Python virtual environment; all archived review rows independently reconstructed, and these selected streams regenerated. Not a full rerun of all stochastic studies or independent human replication."
+}

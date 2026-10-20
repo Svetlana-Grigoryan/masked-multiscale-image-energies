@@ -1,0 +1,10 @@
+20 banks footprint
+20 banks stripes
+20 banks elliptical_gaps
+cross family and known map complete
+benchmark 512 footprint
+benchmark 512 stripes
+benchmark 1024 footprint
+benchmark 1024 stripes
+benchmark 2048 footprint
+benchmark 2048 stripes

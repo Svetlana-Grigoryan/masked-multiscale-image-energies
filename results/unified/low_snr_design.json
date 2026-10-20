@@ -1,0 +1,14 @@
+{
+  "reason": "Separate follow-up added after rho=.1 saturation; all three new ratios retained, no best-ratio selection",
+  "stream": [
+    20261113
+  ],
+  "rhos": [
+    0.005,
+    0.01,
+    0.025
+  ],
+  "banks": 10,
+  "b": 999,
+  "R": 500
+}

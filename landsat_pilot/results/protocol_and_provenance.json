@@ -1,0 +1,92 @@
+{
+  "source": "USGS Landsat 7 ETM-derived Rasterio RGB.byte.tif",
+  "source_url": "https://raw.githubusercontent.com/rasterio/rasterio/1.4.3/tests/data/RGB.byte.tif",
+  "license_url": "https://raw.githubusercontent.com/rasterio/rasterio/1.4.3/tests/data/README.rst",
+  "license": "CC0 1.0 Universal Public Domain Dedication",
+  "source_shape": [
+    718,
+    791,
+    3
+  ],
+  "source_sha256": "d7cbe932c7ed74a627706a9e9df99f706df3e5abc7d45a49e9d00677a6b09eb4",
+  "crs": "EPSG:32618",
+  "pixel_spacing_m": [
+    300.0379266750948,
+    300.041782729805
+  ],
+  "acquisition_date": "not established from the supplied fixture",
+  "padding": {
+    "canvas": 1024,
+    "top": 153,
+    "left": 116
+  },
+  "source_validity_rule": "all three stored RGB bands are nonzero; nodata is 0 in GeoTIFF metadata",
+  "cloud_detection": "not performed; existing clouds remain part of the frozen template",
+  "grayscale_weights": [
+    0.2126,
+    0.7152,
+    0.0722
+  ],
+  "noise_injection": "iid standard Gaussian after fixed pixel decimation; no model for original sensor noise",
+  "seeds": [
+    20261031,
+    20261032,
+    20261033
+  ],
+  "b": 999,
+  "audit_trials_per_seed": 150,
+  "power_trials_per_seed": 1000,
+  "rhos": [
+    0.0,
+    0.001,
+    0.005,
+    0.01,
+    0.025,
+    0.05,
+    0.1,
+    0.25,
+    1.0
+  ],
+  "noise_design": "fresh banks in level audit; one independent shared bank per seed and mask in power study",
+  "masks": {
+    "footprint": {
+      "L": 382405,
+      "retained_fraction": 0.36468982696533203,
+      "L64": 1492
+    },
+    "stripes": {
+      "L": 311143,
+      "retained_fraction": 0.29672908782958984,
+      "L64": 1119
+    },
+    "elliptical_gaps": {
+      "L": 292023,
+      "retained_fraction": 0.27849483489990234,
+      "L64": 1140
+    }
+  },
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+  "threads": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "signal_moment_check": {
+    "seed": 20261035,
+    "rho": 0.1,
+    "draws_per_mask": 20000
+  },
+  "noise_moment_check": {
+    "seed": 20261034,
+    "draws_per_mask": 20000
+  },
+  "float64_significand_bits": 53,
+  "longdouble_significand_bits": 64,
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8",
+  "pillow": "12.3.0",
+  "nodata_caveat": "file-defined band-mask intersection; interior zeros can include 8-bit quantization, not a certified physical missingness map"
+}

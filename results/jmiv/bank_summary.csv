@@ -1,0 +1,10 @@
+mask,method,banks,observations_per_bank,mean,sd_between_banks,ci_low,ci_high,interval
+footprint,H_upper,20,300,0.8361666666666666,0.02430976989361893,0.8247893441396997,0.8475439891936335,t interval across 20 independent bank-level rates; approximate
+footprint,Q_upper,20,300,0.8859999999999999,0.019454550423069216,0.8768949901315808,0.895105009868419,t interval across 20 independent bank-level rates; approximate
+footprint,combined,20,300,0.7373333333333333,0.04200529067206231,0.7176742521529519,0.7569924145137147,t interval across 20 independent bank-level rates; approximate
+stripes,H_upper,20,300,0.7136666666666668,0.032622239750142674,0.6983989884939155,0.7289343448394181,t interval across 20 independent bank-level rates; approximate
+stripes,Q_upper,20,300,0.7888333333333333,0.019172195998768748,0.7798604694032032,0.7978061972634634,t interval across 20 independent bank-level rates; approximate
+stripes,combined,20,300,0.5916666666666666,0.03845708476238224,0.5736681969689597,0.6096651363643735,t interval across 20 independent bank-level rates; approximate
+elliptical_gaps,H_upper,20,300,0.6785,0.03475015250923663,0.662236428000388,0.694763571999612,t interval across 20 independent bank-level rates; approximate
+elliptical_gaps,Q_upper,20,300,0.7358333333333333,0.030065717493867546,0.7217621444068519,0.7499045222598147,t interval across 20 independent bank-level rates; approximate
+elliptical_gaps,combined,20,300,0.5326666666666666,0.03468488050538035,0.5164336429051952,0.548899690428138,t interval across 20 independent bank-level rates; approximate

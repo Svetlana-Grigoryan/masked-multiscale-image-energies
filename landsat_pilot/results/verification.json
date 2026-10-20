@@ -1,0 +1,10 @@
+{
+  "fresh_audit_rows": 90,
+  "power_rows": 405,
+  "all_power_rank_max_error": 0.0,
+  "fresh_tests_regenerated": 27,
+  "numerical_pairs": 15,
+  "benchmark_rows": 20,
+  "source_hash_verified": true,
+  "note": "Original stochastic studies not rerun. This separate pilot checks simulated added noise, not original Landsat instrument noise."
+}

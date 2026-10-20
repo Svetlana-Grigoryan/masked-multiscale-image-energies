@@ -1,0 +1,14 @@
+{
+  "pages": 32,
+  "authors": 4,
+  "bibliography_entries": 44,
+  "flat_source_and_modular_pdf_text_identical": true,
+  "flat_source_compilation_passes": 3,
+  "log_warnings": 0,
+  "saved_result_reconstruction": "make verify completed in pinned Python virtual environment",
+  "baseline_records_unchanged": 106,
+  "new_validation_rows": 800,
+  "high_precision_masks": 7,
+  "complete_workflow_processes": 36,
+  "limits": "Not a full rerun of all historical stochastic studies, not independent human replication, no publication or DOI deposit performed."
+}

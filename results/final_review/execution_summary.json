@@ -1,0 +1,27 @@
+{
+  "clean_python_environment": true,
+  "requirements": "requirements.txt",
+  "record_verification_logs": [
+    "original_records.log",
+    "paired_records.log",
+    "landsat_records.log",
+    "jmiv_records.log"
+  ],
+  "new_regeneration": "new_checks.json",
+  "fresh_benchmark_workers": 8,
+  "bibliography": "bibliography_audit.csv",
+  "original_fingerprint_count": 106,
+  "source_build": {
+    "main": {
+      "pages": 28,
+      "four_authors_on_title_page": true,
+      "clean_log": true
+    },
+    "Supplementary_Validation": {
+      "pages": 19,
+      "four_authors_on_title_page": true,
+      "clean_log": true
+    }
+  },
+  "limitations": "Selected stochastic stream regeneration plus complete supplied rank/count record audits; not all stochastic studies rerun, not independent human replication."
+}

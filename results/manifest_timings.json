@@ -1,0 +1,20 @@
+{
+  "seeds": [
+    20261018,
+    20261019,
+    20261020
+  ],
+  "permutation_seeds": [
+    20261021,
+    20261022,
+    20261023
+  ],
+  "b": 999,
+  "quick": false,
+  "stage": "timings",
+  "elapsed_seconds": 1.9213042259998474,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39"
+}

@@ -1,0 +1,50 @@
+{
+  "original_citation_keys_restored": 25,
+  "bibliography_entries": 37,
+  "author_works": [
+    [
+      21,
+      "EpiskoposianGrigorian2012"
+    ],
+    [
+      22,
+      "EpiskoposianGrigoryan2025"
+    ],
+    [
+      23,
+      "EpiskoposianMuller2014"
+    ],
+    [
+      24,
+      "EpiskoposyanGrigoryanSimonyan2022"
+    ],
+    [
+      25,
+      "EpiskoposianGrigorianGrigorian2024"
+    ],
+    [
+      31,
+      "EpiskoposianParsyan2026"
+    ],
+    [
+      36,
+      "EpiskoposianMultiplier2026"
+    ],
+    [
+      37,
+      "RuzhanskyEpiskoposianYeghoyan2026"
+    ]
+  ],
+  "recovered_formula_labels": [
+    "eq:approx",
+    "eq:scaleWeightNorm",
+    "eq:weightedProfile",
+    "prop:scaleWeights",
+    "sec:adaptiveContext",
+    "sec:comparison",
+    "sec:scaleWeights",
+    "tab:families"
+  ],
+  "pdf_pages": 24,
+  "original_source_sha256": "f001fa385520c21349f5b21b5805b8211db4a44afecf103f5304867e05341dab"
+}

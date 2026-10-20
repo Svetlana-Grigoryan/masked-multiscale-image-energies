@@ -1,0 +1,12 @@
+{
+  "sensitivity_max_changed": 1,
+  "sensitivity_rows": 112,
+  "independent_bank_rows": 180,
+  "cross_family_rows": 90,
+  "known_map_trials": 300,
+  "benchmark_process_rows": 36,
+  "known_map_rejections": {
+    "matched": 12,
+    "unmatched": 300
+  }
+}

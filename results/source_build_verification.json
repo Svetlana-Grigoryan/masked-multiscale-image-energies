@@ -1,0 +1,36 @@
+{
+  "clean_flat_source_build": true,
+  "source_files_verified": 18,
+  "source_content_sha256": {
+    "Makefile": "17f2b835da90d7345b8151503b560c22f00c4ad03e730c77393c9411a3178b7e",
+    "README_BUILD.txt": "160c002863c5a0f0d9b07e399974249c2ce17e097acade0a1f053f3a98035aaf",
+    "Supplementary_Validation.tex": "c879783ea14209264b9664a2dcb5e2cbe2dc48c4197e45cf76be40d5950d9399",
+    "build_pdf.py": "f0e5a336fa8173b191fa377d9781a4486a0b0f42ab0faa26c7f30a5e3b88211a",
+    "main.tex": "8d016075aa26d777cc3f7eb11bec01a2cd2456983847905159017ecc9002c25c",
+    "sn-jnl.cls": "36d0c3273a59d48dc6a9c7b080dfa1ec50dc10229d8751568d1f2e490ffa5ecc",
+    "sn-mathphys-num.bst": "b3a7c7fbcc1e7f9619de634fcea2f5bb7a245818a5942bc576e40ea001633332",
+    "Fig1.pdf": "4c8a16b28195e0c291f86ee832e4bf9c7195c590019e26a78025e0bcb65f5e58",
+    "Fig2.pdf": "619108b5172627879f923cd031b222930ef72a535f2b172ec3ff2d9a0ea2241a",
+    "Fig3.pdf": "79948fa60f377051f131e3a14ad2dac5429b2706f86bd1a125a863680bcfe677",
+    "Fig4.pdf": "2fcb3189043930ad562e9e3775c7e00319164f784414e0156c1db352c0182558",
+    "SFig1.pdf": "17abf3b33299f0e065282d143fb29b0c2d2b852e057694f92bfaeeb5be7b3f2b",
+    "SFig2.pdf": "cbe671ebe6ab228bfa5955fbbc413069f55f854de969a68aa1e324accead89f6",
+    "SFig3.pdf": "bde9b474f4cb2e425892cb03702f969a3e26f4640c1aa04f4eda999cdd374382",
+    "SFig4.pdf": "34e8fba2bb57224e9eb1cb6ab3af7fcc9eeb8af5d81e05a44a723087b3ea2b94",
+    "SFig5.pdf": "3b2da453414cb8c16679f23a8ec468c88f8ec08f054ca7aa8dd59e686758db9b",
+    "SFig6.pdf": "5d8867d394d876a36b780465269a0c705a00fbe4e673169bc435efef79d9ced5",
+    "SFig7.pdf": "cd4ba8072e75b6267324f4ceb69f1a0db2ac418911f8d2d9873bbba9b2830638"
+  },
+  "documents": {
+    "main": {
+      "pages": 28,
+      "four_authors_on_title_page": true,
+      "clean_log": true
+    },
+    "Supplementary_Validation": {
+      "pages": 19,
+      "four_authors_on_title_page": true,
+      "clean_log": true
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "seeds": [
+    20261018,
+    20261019,
+    20261020
+  ],
+  "b": 999,
+  "quick": false,
+  "stage": "power",
+  "elapsed_seconds": 64.92868525199992,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39"
+}

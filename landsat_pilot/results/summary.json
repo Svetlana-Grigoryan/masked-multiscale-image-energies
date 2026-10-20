@@ -1,0 +1,27 @@
+{
+  "native_benchmark": {
+    "N": 1024,
+    "mask": "footprint",
+    "direct_ms": 131.24975699997776,
+    "tree_ms": 25.27750299998388,
+    "speedup": 5.192354521728727,
+    "direct_RSS": 349.98828125,
+    "tree_RSS": 119.34375,
+    "RSS_ratio": 2.9326067033254777
+  },
+  "tiled_benchmark": {
+    "N": 2048,
+    "mask": "footprint",
+    "direct_ms": 559.1978449999715,
+    "tree_ms": 141.90487999997003,
+    "speedup": 3.9406526752292774,
+    "direct_RSS": 1254.078125,
+    "tree_RSS": 243.296875,
+    "RSS_ratio": 5.154518014257273
+  },
+  "max_covariance_discrepancy": 0.0,
+  "max_noise_mean_standardized_error": 1.5130290209809034,
+  "max_noise_covariance_MC_relative_error": 0.025494307583043965,
+  "max_signal_mean_standardized_error": 2.7348695218562633,
+  "max_signal_covariance_MC_relative_error": 0.013276415767705867
+}

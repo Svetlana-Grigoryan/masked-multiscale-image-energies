@@ -1,0 +1,4045 @@
+{
+  "closure": {
+    "main": {
+      "references": 43,
+      "all_cited": true,
+      "all_citations_resolved": true
+    },
+    "Supplementary_Validation": {
+      "references": 1,
+      "all_cited": true,
+      "all_citations_resolved": true
+    }
+  },
+  "entries": [
+    {
+      "key": "Wolf1990",
+      "doi": "10.1007/BF02426456",
+      "entry": " M. Wolf, S. Ziegengeist, M. Michalik, F. Bornholdt, S. Michalik, B. Meffert, Classification of brain tumours by CT image Walsh spectra, \\emph{Neuroradiology} \\textbf{32} (1990), 464--466. \\doi{10.1007/BF02426456}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "Walsh1923",
+      "doi": "10.2307/2387224",
+      "entry": " J. L. Walsh, A closed set of normal orthogonal functions, \\emph{American Journal of Mathematics} \\textbf{45} (1923), 5--24. \\doi{10.2307/2387224}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "A Closed Set of Normal Orthogonal Functions"
+      ],
+      "authors": [
+        {
+          "given": "J. L.",
+          "family": "Walsh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "American Journal of Mathematics"
+      ],
+      "volume": "45",
+      "issue": "1",
+      "pages": "5",
+      "published": {
+        "date-parts": [
+          [
+            1923,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.2307/2387224"
+    },
+    {
+      "key": "Paley1932",
+      "doi": "10.1112/plms/s2-34.1.241",
+      "entry": " R. E. A. C. Paley, A remarkable series of orthogonal functions (I), \\emph{Proceedings of the London Mathematical Society} \\textbf{s2-34} (1932), 241--264. \\doi{10.1112/plms/s2-34.1.241}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "Morettin1981",
+      "doi": "10.1137/1023061",
+      "entry": " P. A. Morettin, Walsh spectral analysis, \\emph{SIAM Review} \\textbf{23} (1981), 279--291. \\doi{10.1137/1023061}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Walsh Spectral Analysis"
+      ],
+      "authors": [
+        {
+          "given": "Pedro A.",
+          "family": "Morettin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "SIAM Review"
+      ],
+      "volume": "23",
+      "issue": "3",
+      "pages": "279-291",
+      "published": {
+        "date-parts": [
+          [
+            1981,
+            7
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1137/1023061"
+    },
+    {
+      "key": "Rosso2001",
+      "doi": "10.1016/S0165-0270(00)00356-3",
+      "entry": " O. A. Rosso, S. Blanco, J. Yordanova, V. Kolev, A. Figliola, M. Sch\\\"urmann, E. Ba\\c{s}ar, Wavelet entropy: a new tool for analysis of short duration brain electrical signals, \\emph{Journal of Neuroscience Methods} \\textbf{105} (2001), 65--75. \\doi{10.1016/S0165-0270(00)00356-3}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Wavelet entropy: a new tool for analysis of short duration brain electrical signals"
+      ],
+      "authors": [
+        {
+          "given": "Osvaldo A.",
+          "family": "Rosso",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Susana",
+          "family": "Blanco",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Juliana",
+          "family": "Yordanova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vasil",
+          "family": "Kolev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alejandra",
+          "family": "Figliola",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Martin",
+          "family": "Schürmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Erol",
+          "family": "Başar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of Neuroscience Methods"
+      ],
+      "volume": "105",
+      "issue": "1",
+      "pages": "65-75",
+      "published": {
+        "date-parts": [
+          [
+            2001,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1016/s0165-0270(00)00356-3"
+    },
+    {
+      "key": "SaitoShao2022",
+      "doi": "10.1007/s10851-021-01064-w",
+      "entry": " N. Saito, Y. Shao, eGHWT: The extended generalized Haar--Walsh transform, \\emph{Journal of Mathematical Imaging and Vision} \\textbf{64} (2022), 261--283. \\doi{10.1007/s10851-021-01064-w}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "eGHWT: The Extended Generalized Haar–Walsh Transform"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5234-4719",
+          "authenticated-orcid": false,
+          "given": "Naoki",
+          "family": "Saito",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yiqun",
+          "family": "Shao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of Mathematical Imaging and Vision"
+      ],
+      "volume": "64",
+      "issue": "3",
+      "pages": "261-283",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            5
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/s10851-021-01064-w"
+    },
+    {
+      "key": "Simard2001",
+      "doi": "10.1109/DCC.2001.917140",
+      "entry": " P. Y. Simard, H. S. Malvar, A wavelet coder for masked images, in \\emph{Proceedings of the Data Compression Conference}, IEEE (2001), 93--102. \\doi{10.1109/DCC.2001.917140}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "Wandelt2001",
+      "doi": "10.1103/PhysRevD.64.083003",
+      "entry": " B. D. Wandelt, E. Hivon, K. M. G\\'orski, The pseudo-$C_\\ell$ method: Cosmic microwave background anisotropy power spectrum statistics for high precision cosmology, \\emph{Physical Review D} \\textbf{64} (2001), 083003. \\doi{10.1103/PhysRevD.64.083003}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Cosmic microwave background anisotropy power spectrum statistics for high precision cosmology"
+      ],
+      "authors": [
+        {
+          "given": "Benjamin D.",
+          "family": "Wandelt",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eric",
+          "family": "Hivon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Krzysztof M.",
+          "family": "Górski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Physical Review D"
+      ],
+      "volume": "64",
+      "issue": "8",
+      "pages": "083003",
+      "published": {
+        "date-parts": [
+          [
+            2001,
+            9,
+            4
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1103/physrevd.64.083003"
+    },
+    {
+      "key": "Hivon2002",
+      "doi": "10.1086/338126",
+      "entry": " E. Hivon, K. M. G\\'orski, C. B. Netterfield, B. P. Crill, S. Prunet, F. Hansen, MASTER of the cosmic microwave background anisotropy power spectrum: A fast method for statistical analysis of large and complex cosmic microwave background data sets, \\emph{The Astrophysical Journal} \\textbf{567} (2002), 2--17. \\doi{10.1086/338126}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "MASTER of the Cosmic Microwave Background Anisotropy Power Spectrum: A Fast Method for Statistical Analysis of Large and Complex Cosmic Microwave Background Data Sets"
+      ],
+      "authors": [
+        {
+          "given": "Eric",
+          "family": "Hivon",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Krzysztof M.",
+          "family": "Gorski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. Barth",
+          "family": "Netterfield",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brendan P.",
+          "family": "Crill",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Simon",
+          "family": "Prunet",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Frode",
+          "family": "Hansen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "The Astrophysical Journal"
+      ],
+      "volume": "567",
+      "issue": "1",
+      "pages": "2-17",
+      "published": {
+        "date-parts": [
+          [
+            2002,
+            3
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1086/338126"
+    },
+    {
+      "key": "Herron2011",
+      "doi": "10.7153/oam-05-07",
+      "entry": " J. D. Herron, Weighted conditional expectation operators, \\emph{Operators and Matrices} \\textbf{5} (2011), 107--118. \\doi{10.7153/oam-05-07}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Weighted conditional expectation operators"
+      ],
+      "authors": [
+        {
+          "given": "John David",
+          "family": "Herron",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Operators and Matrices"
+      ],
+      "volume": null,
+      "issue": "1",
+      "pages": "107-118",
+      "published": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.7153/oam-05-07"
+    },
+    {
+      "key": "Isserlis1918",
+      "doi": "10.1093/biomet/12.1-2.134",
+      "entry": " L. Isserlis, On a formula for the product-moment coefficient of any order of a normal frequency distribution in any number of variables, \\emph{Biometrika} \\textbf{12} (1918), 134--139. \\doi{10.1093/biomet/12.1-2.134}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "ON A FORMULA FOR THE PRODUCT-MOMENT COEFFICIENT OF ANY ORDER OF A NORMAL FREQUENCY DISTRIBUTION IN ANY NUMBER OF VARIABLES"
+      ],
+      "authors": [
+        {
+          "given": "L.",
+          "family": "ISSERLIS",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Biometrika"
+      ],
+      "volume": "12",
+      "issue": "1-2",
+      "pages": "134-139",
+      "published": {
+        "date-parts": [
+          [
+            1918,
+            11,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1093/biomet/12.1-2.134"
+    },
+    {
+      "key": "Craig1943",
+      "doi": "10.1214/aoms/1177731461",
+      "entry": " A. T. Craig, Note on the independence of certain quadratic forms, \\emph{The Annals of Mathematical Statistics} \\textbf{14} (1943), 195--197. \\doi{10.1214/aoms/1177731461}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Note on the Independence of Certain Quadratic Forms"
+      ],
+      "authors": [
+        {
+          "given": "Allen T.",
+          "family": "Craig",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "The Annals of Mathematical Statistics"
+      ],
+      "volume": "14",
+      "issue": "2",
+      "pages": "195-197",
+      "published": {
+        "date-parts": [
+          [
+            1943,
+            6
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1214/aoms/1177731461"
+    },
+    {
+      "key": "Lancaster1954",
+      "doi": "10.1111/j.2517-6161.1954.tb00167.x",
+      "entry": " H. O. Lancaster, Traces and cumulants of quadratic forms in normal variables, \\emph{Journal of the Royal Statistical Society, Series B} \\textbf{16} (1954), 247--254. \\doi{10.1111/j.2517-6161.1954.tb00167.x}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Traces and Cumulants of Quadratic Forms in Normal Variables"
+      ],
+      "authors": [
+        {
+          "given": "H. O.",
+          "family": "Lancaster",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Public Health and Tropical Medicine , Sydney"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of the Royal Statistical Society Series B: Statistical Methodology"
+      ],
+      "volume": "16",
+      "issue": "2",
+      "pages": "247-254",
+      "published": {
+        "date-parts": [
+          [
+            1954,
+            7,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1111/j.2517-6161.1954.tb00167.x"
+    },
+    {
+      "key": "Hope1968",
+      "doi": "10.1111/j.2517-6161.1968.tb00759.x",
+      "entry": " A. C. A. Hope, A simplified Monte Carlo significance test procedure, \\emph{Journal of the Royal Statistical Society, Series B} \\textbf{30} (1968), 582--598. \\doi{10.1111/j.2517-6161.1968.tb00759.x}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "A Simplified Monte Carlo Significance Test Procedure"
+      ],
+      "authors": [
+        {
+          "given": "Adery C. A.",
+          "family": "Hope",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Petroleum Recovery Research Institute , Alberta , Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of the Royal Statistical Society Series B: Statistical Methodology"
+      ],
+      "volume": "30",
+      "issue": "3",
+      "pages": "582-598",
+      "published": {
+        "date-parts": [
+          [
+            1968,
+            9,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1111/j.2517-6161.1968.tb00759.x"
+    },
+    {
+      "key": "Dufour2006",
+      "doi": "10.1016/j.jeconom.2005.06.007",
+      "entry": " J.-M. Dufour, Monte Carlo tests with nuisance parameters: A general approach to finite-sample inference and nonstandard asymptotics, \\emph{Journal of Econometrics} \\textbf{133} (2006), 443--477. \\doi{10.1016/j.jeconom.2005.06.007}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Monte Carlo tests with nuisance parameters: A general approach to finite-sample inference and nonstandard asymptotics"
+      ],
+      "authors": [
+        {
+          "given": "Jean-Marie",
+          "family": "Dufour",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of Econometrics"
+      ],
+      "volume": "133",
+      "issue": "2",
+      "pages": "443-477",
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            8
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1016/j.jeconom.2005.06.007"
+    },
+    {
+      "key": "Phipson2010",
+      "doi": "10.2202/1544-6115.1585",
+      "entry": " B. Phipson, G. K. Smyth, Permutation $P$-values should never be zero: Calculating exact $P$-values when permutations are randomly drawn, \\emph{Statistical Applications in Genetics and Molecular Biology} \\textbf{9} (2010), Article 39. \\doi{10.2202/1544-6115.1585}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Permutation P-values Should Never Be Zero: Calculating Exact P-values When Permutations Are Randomly Drawn"
+      ],
+      "authors": [
+        {
+          "given": "Belinda",
+          "family": "Phipson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The Walter and Eliza Hall Institute of Medical Research"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gordon K",
+          "family": "Smyth",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The Walter and Eliza Hall Institute of Medical Reseach"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Statistical Applications in Genetics and Molecular Biology"
+      ],
+      "volume": "9",
+      "issue": "1",
+      "pages": null,
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            10,
+            31
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.2202/1544-6115.1585"
+    },
+    {
+      "key": "Hemerik2018",
+      "doi": "10.1007/s11749-017-0571-1",
+      "entry": " J. Hemerik, J. Goeman, Exact testing with random permutations, \\emph{TEST} \\textbf{27} (2018), 811--825. \\doi{10.1007/s11749-017-0571-1}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Exact testing with random permutations"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9811-1336",
+          "authenticated-orcid": false,
+          "given": "Jesse",
+          "family": "Hemerik",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jelle",
+          "family": "Goeman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "TEST"
+      ],
+      "volume": "27",
+      "issue": "4",
+      "pages": "811-825",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            11,
+            30
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/s11749-017-0571-1"
+    },
+    {
+      "key": "Watari1963",
+      "doi": "10.2748/tmj/1178243865",
+      "entry": " C. Watari, Best approximation by Walsh polynomials, \\emph{Tohoku Mathematical Journal} \\textbf{15} (1963), 1--5. \\doi{10.2748/tmj/1178243865}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "Golubov1972",
+      "doi": "10.1070/SM1972v016n02ABEH001425",
+      "entry": " B. I. Golubov, Best approximations of functions in the $L^p$ metric by Haar and Walsh polynomials, \\emph{Mathematics of the USSR-Sbornik} \\textbf{16} (1972), 265--285. \\doi{10.1070/SM1972v016n02ABEH001425}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "BEST APPROXIMATIONS OF FUNCTIONS IN THE<i>L<sub>p</sub></i>METRIC BY HAAR AND WALSH POLYNOMIALS"
+      ],
+      "authors": [
+        {
+          "given": "B I",
+          "family": "Golubov",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Mathematics of the USSR-Sbornik"
+      ],
+      "volume": "16",
+      "issue": "2",
+      "pages": "265-285",
+      "published": {
+        "date-parts": [
+          [
+            1972,
+            2,
+            28
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1070/sm1972v016n02abeh001425"
+    },
+    {
+      "key": "EpiskoposianGrigorian2012",
+      "doi": "10.1016/j.jmaa.2012.01.014",
+      "entry": " S. A. Episkoposian, M. G. Grigorian, $L^p$-convergence of greedy algorithm by generalized Walsh system, \\emph{Journal of Mathematical Analysis and Applications} \\textbf{389} (2012), 1374--1379. \\doi{10.1016/j.jmaa.2012.01.014}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\">\n                      <mml:msup>\n                        <mml:mi>L</mml:mi>\n                        <mml:mi>p</mml:mi>\n                      </mml:msup>\n                    </mml:math>\n                    -convergence of greedy algorithm by generalized Walsh system"
+      ],
+      "authors": [
+        {
+          "given": "S.A.",
+          "family": "Episkoposian",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.G.",
+          "family": "Grigorian",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of Mathematical Analysis and Applications"
+      ],
+      "volume": "389",
+      "issue": "2",
+      "pages": "1374-1379",
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            5
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1016/j.jmaa.2012.01.014"
+    },
+    {
+      "key": "EpiskoposianGrigoryan2025",
+      "doi": "10.1007/978-3-031-89463-3_14",
+      "entry": " S. A. Episkoposian, T. M. Grigoryan, Nonlinear Approximation with Respect to the Walsh Generalized System, in Z. Avetisyan, M. Ruzhansky, A. Vagharshakyan (eds.), \\emph{Analysis, PDEs, and Applications}, Trends in Mathematics, vol. 13, Birkh\\\"auser, Cham (2025), 103--110. \\doi{10.1007/978-3-031-89463-3_14}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Nonlinear Approximation with Respect to the Walsh Generalized System"
+      ],
+      "authors": [
+        {
+          "given": "Sergo A.",
+          "family": "Episkoposian",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tigran M.",
+          "family": "Grigoryan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Trends in Mathematics",
+        "Analysis, PDEs, and Applications"
+      ],
+      "volume": null,
+      "issue": null,
+      "pages": "103-110",
+      "published": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/978-3-031-89463-3_14"
+    },
+    {
+      "key": "EpiskoposianMuller2014",
+      "doi": "10.1007/s00605-014-0631-5",
+      "entry": " S. Episkoposian, J. M\\\"uller, Universality properties of Walsh--Fourier series, \\emph{Monatshefte f\\\"ur Mathematik} \\textbf{175} (2014), 511--518. \\doi{10.1007/s00605-014-0631-5}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Universality properties of Walsh–Fourier series"
+      ],
+      "authors": [
+        {
+          "given": "Sergo",
+          "family": "Episkoposian",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jürgen",
+          "family": "Müller",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Monatshefte für Mathematik"
+      ],
+      "volume": "175",
+      "issue": "4",
+      "pages": "511-518",
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            4,
+            27
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/s00605-014-0631-5"
+    },
+    {
+      "key": "EpiskoposyanGrigoryanSimonyan2022",
+      "doi": "10.3103/S106836232206005X",
+      "entry": " S. A. Episkoposyan, T. M. Grigoryan, L. S. Simonyan, On the $L^p$-Greedy Universal Functions with Respect to the Generalized Walsh System, \\emph{Journal of Contemporary Mathematical Analysis} \\textbf{57} (2022), 332--343. \\doi{10.3103/S106836232206005X}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "On the $$L^{p}$$-Greedy Universal Functions with Respect to the Generalized Walsh System"
+      ],
+      "authors": [
+        {
+          "given": "S. A.",
+          "family": "Episkoposyan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T. M.",
+          "family": "Grigoryan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L. S.",
+          "family": "Simonyan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences)"
+      ],
+      "volume": "57",
+      "issue": "6",
+      "pages": "332-343",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.3103/s106836232206005x"
+    },
+    {
+      "key": "EpiskoposianGrigorianGrigorian2024",
+      "doi": "10.1007/s43036-023-00301-w",
+      "entry": " S. A. Episkoposian, M. G. Grigorian, T. M. Grigorian, On the universal pair with respect to the generalized Walsh system, \\emph{Advances in Operator Theory} \\textbf{9} (2024), Article 3. \\doi{10.1007/s43036-023-00301-w}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "Treil2013",
+      "doi": "10.4171/RMI/759",
+      "entry": " S. Treil, Commutators, paraproducts and BMO in non-homogeneous martingale settings, \\emph{Revista Matem\\'atica Iberoamericana} \\textbf{29} (2013), 1325--1372. \\doi{10.4171/RMI/759}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Commutators, paraproducts and BMO in non-homogeneous martingale settings"
+      ],
+      "authors": [
+        {
+          "given": "Sergei",
+          "family": "Treil",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Brown University, Providence, USA"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Revista Matemática Iberoamericana"
+      ],
+      "volume": "29",
+      "issue": "4",
+      "pages": "1325-1372",
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            15
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.4171/rmi/759"
+    },
+    {
+      "key": "Fahim2025",
+      "doi": "10.1007/s40819-025-01858-1",
+      "entry": " K. Fahim, D. Muhammad, M. Yunus, Sunarsini, The $q$-Analogue of the Haar Wavelet Transform: A Novel Approach to Image Denoising, \\emph{International Journal of Applied and Computational Mathematics} \\textbf{11} (2025), Article 43. \\doi{10.1007/s40819-025-01858-1}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "The $$q$$-Analogue of the Haar Wavelet Transform: A Novel Approach to Image Denoising"
+      ],
+      "authors": [
+        {
+          "given": "Kistosil",
+          "family": "Fahim",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dzaky",
+          "family": "Muhammad",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mahmud",
+          "family": "Yunus",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "family": "Sunarsini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "International Journal of Applied and Computational Mathematics"
+      ],
+      "volume": "11",
+      "issue": "2",
+      "pages": "43",
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            24
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/s40819-025-01858-1"
+    },
+    {
+      "key": "Mallat2012",
+      "doi": "10.1002/cpa.21413",
+      "entry": " S. Mallat, Group invariant scattering, \\emph{Communications on Pure and Applied Mathematics} \\textbf{65} (2012), 1331--1398. \\doi{10.1002/cpa.21413}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Group Invariant Scattering"
+      ],
+      "authors": [
+        {
+          "given": "Stéphane",
+          "family": "Mallat",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Communications on Pure and Applied Mathematics"
+      ],
+      "volume": "65",
+      "issue": "10",
+      "pages": "1331-1398",
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            24
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1002/cpa.21413"
+    },
+    {
+      "key": "Zwanenburg2020",
+      "doi": "10.1148/radiol.2020191145",
+      "entry": " A. Zwanenburg, M. Valli\\`eres, M. A. Abdalah, et al., The Image Biomarker Standardization Initiative: Standardized quantitative radiomics for high-throughput image-based phenotyping, \\emph{Radiology} \\textbf{295} (2020), 328--338. \\doi{10.1148/radiol.2020191145}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "The Image Biomarker Standardization Initiative: Standardized                     Quantitative Radiomics for High-Throughput Image-based                     Phenotyping"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-0342-9545",
+          "authenticated-orcid": false,
+          "given": "Alex",
+          "family": "Zwanenburg",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7639-8172",
+          "authenticated-orcid": false,
+          "given": "Martin",
+          "family": "Vallières",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0573-4121",
+          "authenticated-orcid": false,
+          "given": "Mahmoud A.",
+          "family": "Abdalah",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2122-2003",
+          "authenticated-orcid": false,
+          "given": "Hugo J. W. L.",
+          "family": "Aerts",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vincent",
+          "family": "Andrearczyk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8120-0669",
+          "authenticated-orcid": false,
+          "given": "Aditya",
+          "family": "Apte",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Saeed",
+          "family": "Ashrafinia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8734-6482",
+          "authenticated-orcid": false,
+          "given": "Spyridon",
+          "family": "Bakas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3500-8523",
+          "authenticated-orcid": false,
+          "given": "Roelof J.",
+          "family": "Beukinga",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0313-5686",
+          "authenticated-orcid": false,
+          "given": "Ronald",
+          "family": "Boellaard",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marta",
+          "family": "Bogowicz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5631-1575",
+          "authenticated-orcid": false,
+          "given": "Luca",
+          "family": "Boldrini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7053-6471",
+          "authenticated-orcid": false,
+          "given": "Irène",
+          "family": "Buvat",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8732-8134",
+          "authenticated-orcid": false,
+          "given": "Gary J. R.",
+          "family": "Cook",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1025-8561",
+          "authenticated-orcid": false,
+          "given": "Christos",
+          "family": "Davatzikos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2362-0304",
+          "authenticated-orcid": false,
+          "given": "Adrien",
+          "family": "Depeursinge",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marie-Charlotte",
+          "family": "Desseroit",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nicola",
+          "family": "Dinapoli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cuong Viet",
+          "family": "Dinh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9150-4412",
+          "authenticated-orcid": false,
+          "given": "Sebastian",
+          "family": "Echegaray",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6023-1132",
+          "authenticated-orcid": false,
+          "given": "Issam",
+          "family": "El Naqa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4806-9413",
+          "authenticated-orcid": false,
+          "given": "Andriy Y.",
+          "family": "Fedorov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4716-9925",
+          "authenticated-orcid": false,
+          "given": "Roberto",
+          "family": "Gatta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8888-7747",
+          "authenticated-orcid": false,
+          "given": "Robert J.",
+          "family": "Gillies",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2321-8091",
+          "authenticated-orcid": false,
+          "given": "Vicky",
+          "family": "Goh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0984-224X",
+          "authenticated-orcid": false,
+          "given": "Michael",
+          "family": "Götz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7146-9071",
+          "authenticated-orcid": false,
+          "given": "Matthias",
+          "family": "Guckenberger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3526-9101",
+          "authenticated-orcid": false,
+          "given": "Sung Min",
+          "family": "Ha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mathieu",
+          "family": "Hatt",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3519-5886",
+          "authenticated-orcid": false,
+          "given": "Fabian",
+          "family": "Isensee",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7961-0191",
+          "authenticated-orcid": false,
+          "given": "Philippe",
+          "family": "Lambin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7910-2928",
+          "authenticated-orcid": false,
+          "given": "Stefan",
+          "family": "Leger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ralph T.H.",
+          "family": "Leijenaar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8366-1474",
+          "authenticated-orcid": false,
+          "given": "Jacopo",
+          "family": "Lenkowicz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fiona",
+          "family": "Lippert",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8545-8894",
+          "authenticated-orcid": false,
+          "given": "Are",
+          "family": "Losnegård",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6626-2463",
+          "authenticated-orcid": false,
+          "given": "Klaus H.",
+          "family": "Maier-Hein",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9240-5704",
+          "authenticated-orcid": false,
+          "given": "Olivier",
+          "family": "Morin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6800-9878",
+          "authenticated-orcid": false,
+          "given": "Henning",
+          "family": "Müller",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6876-5507",
+          "authenticated-orcid": false,
+          "given": "Sandy",
+          "family": "Napel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6247-2025",
+          "authenticated-orcid": false,
+          "given": "Christophe",
+          "family": "Nioche",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5588-1867",
+          "authenticated-orcid": false,
+          "given": "Fanny",
+          "family": "Orlhac",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2243-8487",
+          "authenticated-orcid": false,
+          "given": "Sarthak",
+          "family": "Pati",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6160-3011",
+          "authenticated-orcid": false,
+          "given": "Elisabeth A.G.",
+          "family": "Pfaehler",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9980-2403",
+          "authenticated-orcid": false,
+          "given": "Arman",
+          "family": "Rahmim",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Arvind U.K.",
+          "family": "Rao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8608-6252",
+          "authenticated-orcid": false,
+          "given": "Jonas",
+          "family": "Scherer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Muhammad Musib",
+          "family": "Siddique",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nanna M.",
+          "family": "Sijtsema",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jairo",
+          "family": "Socarras Fernandez",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1452-8813",
+          "authenticated-orcid": false,
+          "given": "Emiliano",
+          "family": "Spezi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6414-778X",
+          "authenticated-orcid": false,
+          "given": "Roel J.H.M.",
+          "family": "Steenbakkers",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stephanie",
+          "family": "Tanadini-Lang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniela",
+          "family": "Thorwarth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9550-9050",
+          "authenticated-orcid": false,
+          "given": "Esther G.C.",
+          "family": "Troost",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8193-546X",
+          "authenticated-orcid": false,
+          "given": "Taman",
+          "family": "Upadhaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4637-6487",
+          "authenticated-orcid": false,
+          "given": "Vincenzo",
+          "family": "Valentini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9515-5616",
+          "authenticated-orcid": false,
+          "given": "Lisanne V.",
+          "family": "van Dijk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0447-0918",
+          "authenticated-orcid": false,
+          "given": "Joost",
+          "family": "van Griethuysen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2859-2119",
+          "authenticated-orcid": false,
+          "given": "Floris H.P.",
+          "family": "van Velden",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2214-6193",
+          "authenticated-orcid": false,
+          "given": "Philip",
+          "family": "Whybra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4261-4214",
+          "authenticated-orcid": false,
+          "given": "Christian",
+          "family": "Richter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7017-3738",
+          "authenticated-orcid": false,
+          "given": "Steffen",
+          "family": "Löck",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Radiology"
+      ],
+      "volume": "295",
+      "issue": "2",
+      "pages": "328-338",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            5
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1148/radiol.2020191145"
+    },
+    {
+      "key": "Whybra2024",
+      "doi": "10.1148/radiol.231319",
+      "entry": " P. Whybra, A. Zwanenburg, V. Andrearczyk, et al., The Image Biomarker Standardization Initiative: Standardized convolutional filters for reproducible radiomics and enhanced clinical insights, \\emph{Radiology} \\textbf{310} (2024), e231319. \\doi{10.1148/radiol.231319}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "The Image Biomarker Standardization Initiative: Standardized                     Convolutional Filters for Reproducible Radiomics and Enhanced Clinical                     Insights"
+      ],
+      "authors": [
+        {
+          "given": "Philip",
+          "family": "Whybra",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0342-9545",
+          "authenticated-orcid": false,
+          "given": "Alex",
+          "family": "Zwanenburg",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0793-5821",
+          "authenticated-orcid": false,
+          "given": "Vincent",
+          "family": "Andrearczyk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7984-2099",
+          "authenticated-orcid": false,
+          "given": "Roger",
+          "family": "Schaer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8120-0669",
+          "authenticated-orcid": false,
+          "given": "Aditya P.",
+          "family": "Apte",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexandre",
+          "family": "Ayotte",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5475-3903",
+          "authenticated-orcid": false,
+          "given": "Bhakti",
+          "family": "Baheti",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8734-6482",
+          "authenticated-orcid": false,
+          "given": "Spyridon",
+          "family": "Bakas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3539-3540",
+          "authenticated-orcid": false,
+          "given": "Andrea",
+          "family": "Bettinelli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0313-5686",
+          "authenticated-orcid": false,
+          "given": "Ronald",
+          "family": "Boellaard",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Luca",
+          "family": "Boldrini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7053-6471",
+          "authenticated-orcid": false,
+          "given": "Irène",
+          "family": "Buvat",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8732-8134",
+          "authenticated-orcid": false,
+          "given": "Gary J. R.",
+          "family": "Cook",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9181-8470",
+          "authenticated-orcid": false,
+          "given": "Florian",
+          "family": "Dietsche",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2800-9723",
+          "authenticated-orcid": false,
+          "given": "Nicola",
+          "family": "Dinapoli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5657-8432",
+          "authenticated-orcid": false,
+          "given": "Hubert S.",
+          "family": "Gabryś",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2321-8091",
+          "authenticated-orcid": false,
+          "given": "Vicky",
+          "family": "Goh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7146-9071",
+          "authenticated-orcid": false,
+          "given": "Matthias",
+          "family": "Guckenberger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mathieu",
+          "family": "Hatt",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3255-3473",
+          "authenticated-orcid": false,
+          "given": "Mahdi",
+          "family": "Hosseinzadeh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2369-8953",
+          "authenticated-orcid": false,
+          "given": "Aditi",
+          "family": "Iyer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8366-1474",
+          "authenticated-orcid": false,
+          "given": "Jacopo",
+          "family": "Lenkowicz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-3555-0963",
+          "authenticated-orcid": false,
+          "given": "Mahdi A. L.",
+          "family": "Loutfi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7017-3738",
+          "authenticated-orcid": false,
+          "given": "Steffen",
+          "family": "Löck",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5430-1234",
+          "authenticated-orcid": false,
+          "given": "Francesca",
+          "family": "Marturano",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9240-5704",
+          "authenticated-orcid": false,
+          "given": "Olivier",
+          "family": "Morin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6247-2025",
+          "authenticated-orcid": false,
+          "given": "Christophe",
+          "family": "Nioche",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5588-1867",
+          "authenticated-orcid": false,
+          "given": "Fanny",
+          "family": "Orlhac",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sarthak",
+          "family": "Pati",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Arman",
+          "family": "Rahmim",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4525-0025",
+          "authenticated-orcid": false,
+          "given": "Seyed Masoud",
+          "family": "Rezaeijo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9822-3709",
+          "authenticated-orcid": false,
+          "given": "Christopher G.",
+          "family": "Rookyard",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9515-789X",
+          "authenticated-orcid": false,
+          "given": "Mohammad R.",
+          "family": "Salmanpour",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andreas",
+          "family": "Schindele",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5735-0736",
+          "authenticated-orcid": false,
+          "given": "Isaac",
+          "family": "Shiri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1452-8813",
+          "authenticated-orcid": false,
+          "given": "Emiliano",
+          "family": "Spezi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4387-1522",
+          "authenticated-orcid": false,
+          "given": "Stephanie",
+          "family": "Tanadini-Lang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Florent",
+          "family": "Tixier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8193-546X",
+          "authenticated-orcid": false,
+          "given": "Taman",
+          "family": "Upadhaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vincenzo",
+          "family": "Valentini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0447-0918",
+          "authenticated-orcid": false,
+          "given": "Joost J. M.",
+          "family": "van Griethuysen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fereshteh",
+          "family": "Yousefirizi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7559-5297",
+          "authenticated-orcid": false,
+          "given": "Habib",
+          "family": "Zaidi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6800-9878",
+          "authenticated-orcid": false,
+          "given": "Henning",
+          "family": "Müller",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7639-8172",
+          "authenticated-orcid": false,
+          "given": "Martin",
+          "family": "Vallières",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2362-0304",
+          "authenticated-orcid": false,
+          "given": "Adrien",
+          "family": "Depeursinge",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Radiology"
+      ],
+      "volume": "310",
+      "issue": "2",
+      "pages": "e231319",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1148/radiol.231319"
+    },
+    {
+      "key": "EpiskoposianParsyan2026",
+      "doi": "10.47852/bonviewAIA620210522",
+      "entry": " S. A. Episkoposian, S. H. Parsyan, WHSDA-AI: Interpretable Walsh-Hadamard Spectral Deviation Analysis for Structured Artificial Intelligence Applications in Banking Sector, \\emph{Artificial Intelligence and Applications} (2026), published online 15 September 2026. \\doi{10.47852/bonviewAIA620210522}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "WHSDA-AI: Interpretable Walsh-Hadamard Spectral Deviation Analysis for Structured Artificial Intelligence Applications in Banking Sector"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8811-2247",
+          "authenticated-orcid": true,
+          "given": "Sergo A.",
+          "family": "Episkoposian",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of Applied Mathematics and Physics, National Polytechnic University of Armenia, Armenia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0561-3052",
+          "authenticated-orcid": true,
+          "given": "Suren H.",
+          "family": "Parsyan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Service-Based Business Management, Armenian State University of Economics, Armenia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Artificial Intelligence and Applications"
+      ],
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            15
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.47852/bonviewaia620210522"
+    },
+    {
+      "key": "Armato2011",
+      "doi": "10.1118/1.3528204",
+      "entry": " S. G. Armato III, G. McLennan, L. Bidaut, et al., The Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI): A completed reference database of lung nodules on CT scans, \\emph{Medical Physics} \\textbf{38} (2011), 915--931. \\doi{10.1118/1.3528204}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "The Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI): A Completed Reference Database of Lung Nodules on CT Scans"
+      ],
+      "authors": [
+        {
+          "suffix": "III",
+          "given": "Samuel G.",
+          "family": "Armato",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Geoffrey",
+          "family": "McLennan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Luc",
+          "family": "Bidaut",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael F.",
+          "family": "McNitt‐Gray",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Charles R.",
+          "family": "Meyer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anthony P.",
+          "family": "Reeves",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Binsheng",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Denise R.",
+          "family": "Aberle",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Claudia I.",
+          "family": "Henschke",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eric A.",
+          "family": "Hoffman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ella A.",
+          "family": "Kazerooni",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Heber",
+          "family": "MacMahon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Edwin J. R.",
+          "family": "van Beek",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Yankelevitz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alberto M.",
+          "family": "Biancardi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peyton H.",
+          "family": "Bland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Matthew S.",
+          "family": "Brown",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roger M.",
+          "family": "Engelmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gary E.",
+          "family": "Laderach",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "Max",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Richard C.",
+          "family": "Pais",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David P.‐Y.",
+          "family": "Qing",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rachael Y.",
+          "family": "Roberts",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Amanda R.",
+          "family": "Smith",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Adam",
+          "family": "Starkey",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Poonam",
+          "family": "Batra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Philip",
+          "family": "Caligiuri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ali",
+          "family": "Farooqi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gregory W.",
+          "family": "Gladish",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. Matilda",
+          "family": "Jude",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Reginald F.",
+          "family": "Munden",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Iva",
+          "family": "Petkovska",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Leslie E.",
+          "family": "Quint",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lawrence H.",
+          "family": "Schwartz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Baskaran",
+          "family": "Sundaram",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lori E.",
+          "family": "Dodd",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Charles",
+          "family": "Fenimore",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Gur",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nicholas",
+          "family": "Petrick",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "John",
+          "family": "Freymann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Justin",
+          "family": "Kirby",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brian",
+          "family": "Hughes",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alessi",
+          "family": "Vande Casteele",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sangeeta",
+          "family": "Gupte",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maha",
+          "family": "Sallam",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael D.",
+          "family": "Heath",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael H.",
+          "family": "Kuhn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ekta",
+          "family": "Dharaiya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Richard",
+          "family": "Burns",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David S.",
+          "family": "Fryd",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marcos",
+          "family": "Salganicoff",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vikram",
+          "family": "Anand",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Uri",
+          "family": "Shreter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stephen",
+          "family": "Vastagh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Barbara Y.",
+          "family": "Croft",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Laurence P.",
+          "family": "Clarke",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Medical Physics"
+      ],
+      "volume": "38",
+      "issue": "2",
+      "pages": "915-931",
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            1,
+            24
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1118/1.3528204"
+    },
+    {
+      "key": "TCIALIDC",
+      "doi": "10.7937/K9/TCIA.2015.LO9QL9SX",
+      "entry": " The Cancer Imaging Archive, LIDC-IDRI: The Lung Image Database Consortium and Image Database Resource Initiative, dataset (2015). \\doi{10.7937/K9/TCIA.2015.LO9QL9SX}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "FornaconWood2020",
+      "doi": "10.1007/s00330-020-06957-9",
+      "entry": " I. Fornacon-Wood, H. Mistry, C. J. Ackermann, et al., Reliability and prognostic value of radiomic features are highly dependent on choice of feature extraction platform, \\emph{European Radiology} \\textbf{30} (2020), 6241--6250. \\doi{10.1007/s00330-020-06957-9}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Reliability and prognostic value of radiomic features are highly dependent on choice of feature extraction platform"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3736-2967",
+          "authenticated-orcid": false,
+          "given": "Isabella",
+          "family": "Fornacon-Wood",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hitesh",
+          "family": "Mistry",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christoph J.",
+          "family": "Ackermann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fiona",
+          "family": "Blackhall",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew",
+          "family": "McPartlin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Corinne",
+          "family": "Faivre-Finn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gareth J.",
+          "family": "Price",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "James P. B.",
+          "family": "O’Connor",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "European Radiology"
+      ],
+      "volume": "30",
+      "issue": "11",
+      "pages": "6241-6250",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/s00330-020-06957-9"
+    },
+    {
+      "key": "Huang2023",
+      "doi": "10.1038/s41571-022-00707-0",
+      "entry": " E. P. Huang, J. P. B. O'Connor, L. M. McShane, et al., Criteria for the translation of radiomics into clinically useful tests, \\emph{Nature Reviews Clinical Oncology} \\textbf{20} (2023), 69--82. \\doi{10.1038/s41571-022-00707-0}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Criteria for the translation of radiomics into clinically useful tests"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8458-655X",
+          "authenticated-orcid": false,
+          "given": "Erich P.",
+          "family": "Huang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "James P. B.",
+          "family": "O’Connor",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8195-3206",
+          "authenticated-orcid": false,
+          "given": "Lisa M.",
+          "family": "McShane",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maryellen L.",
+          "family": "Giger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7961-0191",
+          "authenticated-orcid": false,
+          "given": "Philippe",
+          "family": "Lambin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Paul E.",
+          "family": "Kinahan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eliot L.",
+          "family": "Siegel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lalitha K.",
+          "family": "Shankar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Nature Reviews Clinical Oncology"
+      ],
+      "volume": "20",
+      "issue": "2",
+      "pages": "69-82",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            28
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1038/s41571-022-00707-0"
+    },
+    {
+      "key": "EpiskoposianMultiplier2026",
+      "doi": "10.1007/978-3-032-14211-5_23",
+      "entry": " S. A. Episkoposian, Review: Boundedness of Multiplier Operators in the Walsh System, in \\emph{Analysis and PDE in Developing Countries}, Trends in Mathematics, vol. 17, Birkh\\\"auser, Cham (2026), 273--286. \\doi{10.1007/978-3-032-14211-5_23}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Review: Boundedness of Multiplier Operators in the Walsh System"
+      ],
+      "authors": [
+        {
+          "given": "Sergo A.",
+          "family": "Episkoposian",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Trends in Mathematics",
+        "Analysis and PDE in Developing Countries"
+      ],
+      "volume": null,
+      "issue": null,
+      "pages": "273-286",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1007/978-3-032-14211-5_23"
+    },
+    {
+      "key": "NasonSavchev2014",
+      "doi": "10.1002/sta4.69",
+      "entry": " G. P. Nason, D. Savchev, White noise testing using wavelets, \\emph{Stat} \\textbf{3} (2014), 351--362. \\doi{10.1002/sta4.69}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "White noise testing using wavelets"
+      ],
+      "authors": [
+        {
+          "given": "Guy P.",
+          "family": "Nason",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Mathematics University of Bristol, University Walk Bristol BS8 1TW UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Delyan",
+          "family": "Savchev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Mathematics University of Bristol, University Walk Bristol BS8 1TW UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Stat"
+      ],
+      "volume": "3",
+      "issue": "1",
+      "pages": "351-362",
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            3
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1002/sta4.69"
+    },
+    {
+      "key": "BhattacharyyaSongTanaka2010",
+      "doi": "10.1007/s10801-009-0196-x",
+      "entry": " G. Bhattacharyya, S. Y. Song, R. Tanaka, Terwilliger algebras of wreath products of one-class association schemes, \\emph{Journal of Algebraic Combinatorics} \\textbf{31} (2010), 455--466. \\doi{10.1007/s10801-009-0196-x}.",
+      "status": "fresh retrieval unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "McCullaghNotes",
+      "doi": null,
+      "entry": " P. McCullagh, \\emph{Statistics 345: Lecture Notes}, Section 16, Linear and quadratic forms, University of Chicago, \\url{https://statistics.uchicago.edu/~pmcc/courses/stat345/notes.pdf} (accessed 19 October 2026).",
+      "status": "no DOI in entry"
+    },
+    {
+      "key": "VannucciCorradi1999",
+      "doi": "10.1111/1467-9868.00214",
+      "entry": " M. Vannucci, F. Corradi, Covariance structure of wavelet coefficients: theory and models in a Bayesian perspective, \\emph{Journal of the Royal Statistical Society, Series B} \\textbf{61} (1999), 971--986. \\doi{10.1111/1467-9868.00214}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "Covariance Structure of Wavelet Coefficients: Theory and Models in a Bayesian Perspective"
+      ],
+      "authors": [
+        {
+          "given": "Marina",
+          "family": "Vannucci",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Texas A&M University, College Station , USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fabio",
+          "family": "Corradi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Università di Firenze , Italy"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of the Royal Statistical Society Series B: Statistical Methodology"
+      ],
+      "volume": "61",
+      "issue": "4",
+      "pages": "971-986",
+      "published": {
+        "date-parts": [
+          [
+            1999,
+            11,
+            1
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1111/1467-9868.00214"
+    },
+    {
+      "key": "RasterioData",
+      "doi": null,
+      "entry": " Rasterio developers, Test data and licensing, Rasterio version 1.4.3, \\url{https://github.com/rasterio/rasterio/tree/1.4.3/tests/data} (accessed 19 October 2026).",
+      "status": "no DOI in entry"
+    },
+    {
+      "key": "RasterioMasks",
+      "doi": null,
+      "entry": " Rasterio developers, Nodata masks, \\url{https://rasterio.readthedocs.io/en/stable/topics/masks.html} (accessed 19 October 2026).",
+      "status": "no DOI in entry"
+    },
+    {
+      "key": "MathaiProvost1992",
+      "doi": null,
+      "entry": " A. M. Mathai, S. B. Provost, \\emph{Quadratic Forms in Random Variables: Theory and Applications}, Statistics: Textbooks and Monographs, vol. 126, Marcel Dekker, New York (1992).",
+      "status": "no DOI in entry"
+    },
+    {
+      "key": "Lee2019",
+      "doi": "10.21105/joss.01237",
+      "entry": " G. R. Lee, R. Gommers, F. Waselewski, K. Wohlfahrt, A. O'Leary, PyWavelets: A Python package for wavelet analysis, \\emph{Journal of Open Source Software} \\textbf{4}(36) (2019), 1237. \\doi{10.21105/joss.01237}.",
+      "status": "fresh Crossref metadata retrieved",
+      "title": [
+        "PyWavelets: A Python package for wavelet analysis"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8895-2740",
+          "authenticated-orcid": false,
+          "given": "Gregory",
+          "family": "Lee",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0300-3333",
+          "authenticated-orcid": false,
+          "given": "Ralf",
+          "family": "Gommers",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0729-5879",
+          "authenticated-orcid": false,
+          "given": "Filip",
+          "family": "Waselewski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0970-5539",
+          "authenticated-orcid": false,
+          "given": "Kai",
+          "family": "Wohlfahrt",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1984-2323",
+          "authenticated-orcid": false,
+          "given": "Aaron",
+          "family": "O'Leary",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container": [
+        "Journal of Open Source Software"
+      ],
+      "volume": "4",
+      "issue": "36",
+      "pages": "1237",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            12
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.21105/joss.01237"
+    }
+  ]
+}

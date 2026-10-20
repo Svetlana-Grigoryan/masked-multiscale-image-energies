@@ -1,0 +1,3421 @@
+{
+  "data": {
+    "id": "10.7937/k9/tcia.2015.lo9ql9sx",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.7937/k9/tcia.2015.lo9ql9sx",
+      "prefix": "10.7937",
+      "suffix": "k9/tcia.2015.lo9ql9sx",
+      "identifiers": [
+        {
+          "identifier": "LIDC-IDRI",
+          "identifierType": "TCIA Short Name"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "TCIA Short Name",
+          "alternateIdentifier": "LIDC-IDRI"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Armato III, Samuel G.",
+          "nameType": "Personal",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "McLennan, Geoffrey",
+          "nameType": "Personal",
+          "givenName": "Geoffrey",
+          "familyName": "McLennan",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Bidaut, Luc",
+          "nameType": "Personal",
+          "givenName": "Luc",
+          "familyName": "Bidaut",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "McNitt-Gray, Michael F.",
+          "nameType": "Personal",
+          "givenName": "Michael F.",
+          "familyName": "McNitt-Gray",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Meyer, Charles R.",
+          "nameType": "Personal",
+          "givenName": "Charles R.",
+          "familyName": "Meyer",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Reeves, Anthony P.",
+          "nameType": "Personal",
+          "givenName": "Anthony P.",
+          "familyName": "Reeves",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Zhao, Binsheng",
+          "nameType": "Personal",
+          "givenName": "Binsheng",
+          "familyName": "Zhao",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Aberle, Denise R.",
+          "nameType": "Personal",
+          "givenName": "Denise R.",
+          "familyName": "Aberle",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Henschke, Claudia I.",
+          "nameType": "Personal",
+          "givenName": "Claudia I.",
+          "familyName": "Henschke",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Hoffman, Eric A.",
+          "nameType": "Personal",
+          "givenName": "Eric A.",
+          "familyName": "Hoffman",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Kazerooni, Ella A.",
+          "nameType": "Personal",
+          "givenName": "Ella A.",
+          "familyName": "Kazerooni",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "MacMahon, Heber",
+          "nameType": "Personal",
+          "givenName": "Heber",
+          "familyName": "MacMahon",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Van Beek, Edwin J.R.",
+          "nameType": "Personal",
+          "givenName": "Edwin J.R.",
+          "familyName": "Van Beek",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Yankelevitz, David",
+          "nameType": "Personal",
+          "givenName": "David",
+          "familyName": "Yankelevitz",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Biancardi, Alberto M.",
+          "nameType": "Personal",
+          "givenName": "Alberto M.",
+          "familyName": "Biancardi",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Bland, Peyton H.",
+          "nameType": "Personal",
+          "givenName": "Peyton H.",
+          "familyName": "Bland",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Brown, Matthew S.",
+          "nameType": "Personal",
+          "givenName": "Matthew S.",
+          "familyName": "Brown",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Engelmann, Roger M.",
+          "nameType": "Personal",
+          "givenName": "Roger M.",
+          "familyName": "Engelmann",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Laderach, Gary E.",
+          "nameType": "Personal",
+          "givenName": "Gary E.",
+          "familyName": "Laderach",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Max, Daniel",
+          "nameType": "Personal",
+          "givenName": "Daniel",
+          "familyName": "Max",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Pais, Richard C.",
+          "nameType": "Personal",
+          "givenName": "Richard C.",
+          "familyName": "Pais",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Qing, David P.Y.",
+          "nameType": "Personal",
+          "givenName": "David P.Y.",
+          "familyName": "Qing",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Roberts, Rachael Y.",
+          "nameType": "Personal",
+          "givenName": "Rachael Y.",
+          "familyName": "Roberts",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Smith, Amanda R.",
+          "nameType": "Personal",
+          "givenName": "Amanda R.",
+          "familyName": "Smith",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Starkey, Adam",
+          "nameType": "Personal",
+          "givenName": "Adam",
+          "familyName": "Starkey",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Batra, Poonam",
+          "nameType": "Personal",
+          "givenName": "Poonam",
+          "familyName": "Batra",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Caligiuri, Philip",
+          "nameType": "Personal",
+          "givenName": "Philip",
+          "familyName": "Caligiuri",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Farooqi, Ali",
+          "nameType": "Personal",
+          "givenName": "Ali",
+          "familyName": "Farooqi",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Gladish, Gregory W.",
+          "nameType": "Personal",
+          "givenName": "Gregory W.",
+          "familyName": "Gladish",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Jude, C. Matilda",
+          "nameType": "Personal",
+          "givenName": "C. Matilda",
+          "familyName": "Jude",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Munden, Reginald F.",
+          "nameType": "Personal",
+          "givenName": "Reginald F.",
+          "familyName": "Munden",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Petkovska, Iva",
+          "nameType": "Personal",
+          "givenName": "Iva",
+          "familyName": "Petkovska",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Quint, Leslie E.",
+          "nameType": "Personal",
+          "givenName": "Leslie E.",
+          "familyName": "Quint",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Schwartz, Lawrence H.",
+          "nameType": "Personal",
+          "givenName": "Lawrence H.",
+          "familyName": "Schwartz",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Sundaram, Baskaran",
+          "nameType": "Personal",
+          "givenName": "Baskaran",
+          "familyName": "Sundaram",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Dodd, Lori E.",
+          "nameType": "Personal",
+          "givenName": "Lori E.",
+          "familyName": "Dodd",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Fenimore, Charles",
+          "nameType": "Personal",
+          "givenName": "Charles",
+          "familyName": "Fenimore",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Gur, David",
+          "nameType": "Personal",
+          "givenName": "David",
+          "familyName": "Gur",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Petrick, Nicholas",
+          "nameType": "Personal",
+          "givenName": "Nicholas",
+          "familyName": "Petrick",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Freymann, John",
+          "nameType": "Personal",
+          "givenName": "John",
+          "familyName": "Freymann",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Kirby, Justin",
+          "nameType": "Personal",
+          "givenName": "Justin",
+          "familyName": "Kirby",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Hughes, Brian",
+          "nameType": "Personal",
+          "givenName": "Brian",
+          "familyName": "Hughes",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Casteele, Alessi Vande",
+          "nameType": "Personal",
+          "givenName": "Alessi Vande",
+          "familyName": "Casteele",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Gupte, Sangeeta",
+          "nameType": "Personal",
+          "givenName": "Sangeeta",
+          "familyName": "Gupte",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Sallam, Maha",
+          "nameType": "Personal",
+          "givenName": "Maha",
+          "familyName": "Sallam",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Heath, Michael D.",
+          "nameType": "Personal",
+          "givenName": "Michael D.",
+          "familyName": "Heath",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Kuhn, Michael H.",
+          "nameType": "Personal",
+          "givenName": "Michael H.",
+          "familyName": "Kuhn",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Dharaiya, Ekta",
+          "nameType": "Personal",
+          "givenName": "Ekta",
+          "familyName": "Dharaiya",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Burns, Richard",
+          "nameType": "Personal",
+          "givenName": "Richard",
+          "familyName": "Burns",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Fryd, David S.",
+          "nameType": "Personal",
+          "givenName": "David S.",
+          "familyName": "Fryd",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Salganicoff, Marcos",
+          "nameType": "Personal",
+          "givenName": "Marcos",
+          "familyName": "Salganicoff",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Anand, Vikram",
+          "nameType": "Personal",
+          "givenName": "Vikram",
+          "familyName": "Anand",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Shreter, Uri",
+          "nameType": "Personal",
+          "givenName": "Uri",
+          "familyName": "Shreter",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Vastagh, Stephen",
+          "nameType": "Personal",
+          "givenName": "Stephen",
+          "familyName": "Vastagh",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Croft, Barbara Y.",
+          "nameType": "Personal",
+          "givenName": "Barbara Y.",
+          "familyName": "Croft",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Clarke, Laurence P.",
+          "nameType": "Personal",
+          "givenName": "Laurence P.",
+          "familyName": "Clarke",
+          "affiliation": [],
+          "nameIdentifiers": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Data From LIDC-IDRI"
+        }
+      ],
+      "publisher": "The Cancer Imaging Archive",
+      "container": {},
+      "publicationYear": 2015,
+      "subjects": [],
+      "contributors": [
+        {
+          "name": "TCIA Team",
+          "affiliation": [],
+          "contributorType": "DataCurator",
+          "nameIdentifiers": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2015",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "DICOM",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-009-0401-3",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1118/1.3528204",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/tbme.2011.2167621",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-012-0706-5",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/hisb.2012.59",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/bhi.2012.6211627",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1145/2330784.2330869",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.4304/jcp.8.9.2245-2255",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2006970",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2007016",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/nssmic.2013.6829365",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/acssc.2013.6810271",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2043964",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/jbhi.2014.2361318",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.5430/ijdi.v2n1p54",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.5753/sbcas.2015.10373",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3233/bme-151418",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/ikt.2015.7288770",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/wisp.2015.7139186",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/fuzz-ieee.2015.7338041",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/crv.2015.25",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1088/0031-9155/60/3/1307",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.media.2015.02.002",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2014.12.008",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.acra.2014.12.004",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1166/jmihi.2016.1731",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2216747",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.jestch.2016.05.006",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1080/21681163.2016.1193447",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1186/s12938-015-0120-7",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/ijcnn.2016.7727205",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10278-016-9894-9",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.14257/ijunesst.2016.9.10.18",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1177/0954411915619951",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-319-21212-8_6",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1186/s12938-016-0239-1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.cmpb.2016.08.009",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.crad.2017.01.002",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-319-67534-3_1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.9790/1676-1202034250",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-017-1626-1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10278-017-0029-8",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.17077/etd.k1stgh9r",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2254446",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-319-66179-7_73",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1371/journal.pone.0188290",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-319-59876-5_7",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-319-63315-2_51",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11432-016-9008-0",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.9781/ijimai.2017.452",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.media.2017.06.015",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.12273",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1155/2017/8314740",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/srep43167",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "https://doi.ieeecomputersociety.org/10.1109/ism.2018.00012",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s00521-018-3877-3",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41598-018-27569-w",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.12690",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.matcom.2018.02.001",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11760-018-1327-4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2293918",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.18201/ijisae.2018448460",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1111/1759-7714.12931",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-018-1794-7",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.procs.2017.12.016",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10278-018-0136-1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1186/s12938-018-0529-x",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/1.jmi.5.1.014504",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2309530",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.jksuci.2018.07.005",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.13202",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-018-1774-y",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/app8050832",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-017-1696-0",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.crad.2018.10.008",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1145/3328833.3328872",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s12204-019-2084-4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/tencon.2019.8929313",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1371/journal.pone.0210551",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compmedimag.2019.02.003",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1145/3362789.3362936",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-34080-3_56",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10916-019-1190-z",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.5815/ijem.2019.05.04",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-981-13-7142-4_14",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s13246-019-00822-w",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.23919/fruct48121.2019.8981537",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.jksuci.2019.02.009",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-32689-0_4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.13773",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compmedimag.2018.10.006",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-018-1861-0",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41746-019-0194-x",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s13198-019-00866-x",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/smc.2019.8913885",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/icawst.2019.8923147",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/s19010194",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.ebiom.2019.05.040",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-32226-7_26",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.29007/9c5j",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.5120/ijca2019919741",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-33642-4_1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.13867",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.11591/ijece.v10i5.pp4745-4751",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41598-020-64824-5",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.eswa.2019.112848",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.patrec.2019.11.013",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.cmpb.2019.105172",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/access.2020.3044941",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.cmpb.2020.105839",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s12559-020-09751-3",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.14076",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1200/cci.19.00165",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s12194-020-00584-1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41598-020-69534-6",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1166/jmihi.2020.2976",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s42256-020-0173-6",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11517-020-02197-7",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3991/ijim.v14i17.16607",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-019-02097-8",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.4018/978-1-7998-2120-5.ch009",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/ima.22539",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.acra.2020.07.030",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1371/journal.pone.0231468",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1155/2020/8975078",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.4015/s1016237220500301",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1145/3394171.3413735",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.13998",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.bbe.2021.08.006",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11517-021-02378-y",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/icics52457.2021.9464589",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.21037/qims-20-1356",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10278-021-00504-8",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1504/ijbet.2021.116098",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1631/fitee.2000234",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2021.104811",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/ima.22620",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.9781/ijimai.2021.05.002",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-981-16-3880-0_13",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/diagnostics11122208",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-93179-7_16",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41467-020-20657-4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41597-021-00893-z",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s42003-020-01535-7",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/icassp39728.2021.9415006",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3934/mbe.2021208",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2021.104272",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.eswa.2021.115469",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41467-021-25858-z",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-87735-4_1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.21817/indjcse/2021/v12i4/211204270",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.15074",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s12559-021-09915-9",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-87240-3_19",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/1.jmi.9.5.052402",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.media.2022.102491",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.4103/jmp.jmp_61_21",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/isbi52829.2022.9761482",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.ejrad.2021.110068",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-981-16-2422-3_24",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/tiptekno56568.2022.9960233",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-1-0716-1803-5_33",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/iccke57176.2022.9960032",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.18421/tem111-37",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11042-022-12722-5",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.54097/hset.v4i.918",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.11591/ijece.v12i5.pp4734-4745",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.18287/jbpe22.08.030307",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/diagnostics12020247",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/ima.22721",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/iccke57176.2022.9960025",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.2152/jmi.69.244",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41467-022-34257-x",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/cpe.7251",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-981-16-8129-5_45",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-031-16980-9_2",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-031-19803-8_33",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11517-022-02667-0",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s00034-023-02416-0",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10278-023-00822-z",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41598-023-46345-z",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.26481/dis.20230703jc",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.cogsys.2023.02.003",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.bspc.2022.104563",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.37391/ijeer.110234",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.eswa.2022.118661",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-031-43895-0_41",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s43856-023-00388-5",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1186/s13244-023-01508-4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2023.107219",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1186/s12880-023-01126-y",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1371/journal.pone.0282107",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3311/minisy2023-007",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s00330-023-09946-w",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1201/9781003277002-4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41598-023-38350-z",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-023-03043-5",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s12530-023-09564-3",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/info8040131",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11548-017-1605-6",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1117/12.2253973",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.5072/prism/5393",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.13135",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.inffus.2017.10.005",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41598-020-57739-8",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.21037/qims.2019.12.02",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s00521-020-04787-w",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.cmpbup.2024.100153",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11042-023-17570-5",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1038/s41597-024-03337-6",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1186/s12880-024-01241-4",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.23919/fruct61870.2024.10516343",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1093/jamia/ocy098",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/tii.2018.2883680",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/embc.2018.8512376",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/access.2018.2889350",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/tmi.2018.2876510",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/msp.2019.2900993",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1097/rti.0000000000000388",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1166/jmihi.2019.2790",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-52180-6_34",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/mp.14445",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-60365-6_2",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-59725-2_58",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/ima.22443",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/embc44109.2020.9175649",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-59710-8_33",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s11042-020-09894-3",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10278-020-00326-0",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/diagnostics11071224",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1088/1361-6420/ac104f",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1111/1754-9485.13261",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-030-78191-0_52",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.patcog.2021.107825",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.33166/aetic.2021.02.007",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1504/ijcaet.2021.115943",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1088/1361-6560/ac4316",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/tmi.2021.3066161",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1097/cco.0000000000000796",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-031-12053-4_56",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-031-16443-9_2",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3389/fmed.2021.729287",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.mlwa.2022.100298",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2022.106020",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.patter.2022.100657",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.32604/iasc.2022.025060",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.2991/978-94-6463-252-1_12",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1088/1361-6560/acef8c",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3390/diagnostics13223485",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2024.109046",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.3389/fonc.2024.1435041",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.compbiomed.2024.109461",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/csitss64042.2024.10816854",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/s10044-025-01416-x",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/ism.2018.00012",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.4108/eai.17-11-2023.2342832",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.54254/2753-8818/2024.la19851",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1145/3012430.3012670",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/access.2024.3403106",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.22034/apjcp.2017.18.11.3143",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1007/978-3-031-63787-2_3",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/ecai61503.2024.10607434",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/isbi.2019.8759289",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1109/iccds60734.2024.10560372",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1016/j.artmed.2024.102930",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.24963/ijcai.2024/610",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.17077/etd.66kk-u2b1",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsCitedBy",
+          "relatedIdentifier": "10.1002/ima.70023",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": "4",
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 3.0 Unported",
+          "rightsUri": "https://creativecommons.org/licenses/by/3.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-3.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "The Lung Image Database Consortium image collection (LIDC-IDRI) consists of diagnostic and lung cancer screening thoracic computed tomography (CT) scans with marked-up annotated lesions. It is a web-accessible international resource for development, training, and evaluation of computer-assisted diagnostic (CAD) methods for lung cancer detection and diagnosis. Initiated by the National Cancer Institute (NCI), further advanced by the Foundation for the National Institutes of Health (FNIH), and accompanied by the Food and Drug Administration (FDA) through active participation, this public-private partnership demonstrates the success of a consortium founded on a consensus-based process. Seven academic centers and eight medical imaging companies collaborated to create this data set which contains 1018 cases. Each subject includes images from a clinical thoracic CT scan and an associated XML file that records the results of a two-phase image annotation process performed by four experienced thoracic radiologists. In the initial blinded-read phase, each radiologist independently reviewed each CT scan and marked lesions belonging to one of three categories (\"nodule &gt; or =3 mm,\" \"nodule &lt;3 mm,\" and \"non-nodule &gt; or =3 mm\"). In the subsequent unblinded-read phase, each radiologist independently reviewed their own marks along with the anonymized marks of the three other radiologists to render a final opinion. The goal of this process was to identify as completely as possible all lung nodules in each CT scan without requiring forced consensus.",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNzkzNy9LOS9UQ0lBLjIwMTUuTE85UUw5U1g8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkFybWF0byBJSUksIFNhbXVlbCBHLjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TWNMZW5uYW4sIEdlb2ZmcmV5PC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5HZW9mZnJleTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NY0xlbm5hbjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CaWRhdXQsIEx1YzwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+THVjPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkJpZGF1dDwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5NY05pdHQtR3JheSwgTWljaGFlbCBGLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+TWljaGFlbCBGLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NY05pdHQtR3JheTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5NZXllciwgQ2hhcmxlcyBSLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+Q2hhcmxlcyBSLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NZXllcjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5SZWV2ZXMsIEFudGhvbnkgUC48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkFudGhvbnkgUC48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+UmVldmVzPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlpoYW8sIEJpbnNoZW5nPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5CaW5zaGVuZzwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5aaGFvPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkFiZXJsZSwgRGVuaXNlIFIuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5EZW5pc2UgUi48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+QWJlcmxlPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkhlbnNjaGtlLCBDbGF1ZGlhIEkuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5DbGF1ZGlhIEkuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkhlbnNjaGtlPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkhvZmZtYW4sIEVyaWMgQS48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkVyaWMgQS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+SG9mZm1hbjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5LYXplcm9vbmksIEVsbGEgQS48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkVsbGEgQS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+S2F6ZXJvb25pPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPk1hY01haG9uLCBIZWJlcjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+SGViZXI8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+TWFjTWFob248L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+VmFuIEJlZWssIEVkd2luIEouUi48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkVkd2luIEouUi48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+VmFuIEJlZWs8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+WWFua2VsZXZpdHosIERhdmlkPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5EYXZpZDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5ZYW5rZWxldml0ejwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CaWFuY2FyZGksIEFsYmVydG8gTS48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkFsYmVydG8gTS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+QmlhbmNhcmRpPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkJsYW5kLCBQZXl0b24gSC48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlBleXRvbiBILjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5CbGFuZDwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Ccm93biwgTWF0dGhldyBTLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+TWF0dGhldyBTLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5Ccm93bjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5FbmdlbG1hbm4sIFJvZ2VyIE0uPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5Sb2dlciBNLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5FbmdlbG1hbm48L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TGFkZXJhY2gsIEdhcnkgRS48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkdhcnkgRS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+TGFkZXJhY2g8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TWF4LCBEYW5pZWw8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkRhbmllbDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NYXg8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+UGFpcywgUmljaGFyZCBDLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+UmljaGFyZCBDLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5QYWlzPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlFpbmcsIERhdmlkIFAuWS48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkRhdmlkIFAuWS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+UWluZzwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Sb2JlcnRzLCBSYWNoYWVsIFkuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5SYWNoYWVsIFkuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlJvYmVydHM8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+U21pdGgsIEFtYW5kYSBSLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+QW1hbmRhIFIuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlNtaXRoPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlN0YXJrZXksIEFkYW08L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkFkYW08L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+U3RhcmtleTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CYXRyYSwgUG9vbmFtPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5Qb29uYW08L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+QmF0cmE8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+Q2FsaWdpdXJpLCBQaGlsaXA8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlBoaWxpcDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5DYWxpZ2l1cmk8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+RmFyb29xaSwgQWxpPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5BbGk8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+RmFyb29xaTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5HbGFkaXNoLCBHcmVnb3J5IFcuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5HcmVnb3J5IFcuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkdsYWRpc2g8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+SnVkZSwgQy4gTWF0aWxkYTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+Qy4gTWF0aWxkYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5KdWRlPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPk11bmRlbiwgUmVnaW5hbGQgRi48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlJlZ2luYWxkIEYuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPk11bmRlbjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5QZXRrb3Zza2EsIEl2YTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+SXZhPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlBldGtvdnNrYTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5RdWludCwgTGVzbGllIEUuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5MZXNsaWUgRS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+UXVpbnQ8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+U2Nod2FydHosIExhd3JlbmNlIEguPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5MYXdyZW5jZSBILjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5TY2h3YXJ0ejwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5TdW5kYXJhbSwgQmFza2FyYW48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkJhc2thcmFuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlN1bmRhcmFtPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkRvZGQsIExvcmkgRS48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkxvcmkgRS48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+RG9kZDwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5GZW5pbW9yZSwgQ2hhcmxlczwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+Q2hhcmxlczwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5GZW5pbW9yZTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5HdXIsIERhdmlkPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5EYXZpZDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5HdXI8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+UGV0cmljaywgTmljaG9sYXM8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPk5pY2hvbGFzPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlBldHJpY2s8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+RnJleW1hbm4sIEpvaG48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkpvaG48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+RnJleW1hbm48L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+S2lyYnksIEp1c3RpbjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+SnVzdGluPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPktpcmJ5PC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkh1Z2hlcywgQnJpYW48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkJyaWFuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkh1Z2hlczwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5DYXN0ZWVsZSwgQWxlc3NpIFZhbmRlPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5BbGVzc2kgVmFuZGU8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+Q2FzdGVlbGU8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+R3VwdGUsIFNhbmdlZXRhPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5TYW5nZWV0YTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5HdXB0ZTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5TYWxsYW0sIE1haGE8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPk1haGE8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+U2FsbGFtPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkhlYXRoLCBNaWNoYWVsIEQuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5NaWNoYWVsIEQuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkhlYXRoPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkt1aG4sIE1pY2hhZWwgSC48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPk1pY2hhZWwgSC48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+S3VobjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5EaGFyYWl5YSwgRWt0YTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+RWt0YTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5EaGFyYWl5YTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CdXJucywgUmljaGFyZDwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+UmljaGFyZDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5CdXJuczwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5GcnlkLCBEYXZpZCBTLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+RGF2aWQgUy48L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+RnJ5ZDwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5TYWxnYW5pY29mZiwgTWFyY29zPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5NYXJjb3M8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+U2FsZ2FuaWNvZmY8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+QW5hbmQsIFZpa3JhbTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VmlrcmFtPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkFuYW5kPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlNocmV0ZXIsIFVyaTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VXJpPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlNocmV0ZXI8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+VmFzdGFnaCwgU3RlcGhlbjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+U3RlcGhlbjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5WYXN0YWdoPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkNyb2Z0LCBCYXJiYXJhIFkuPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5CYXJiYXJhIFkuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkNyb2Z0PC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkNsYXJrZSwgTGF1cmVuY2UgUC48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkxhdXJlbmNlIFAuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkNsYXJrZTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+RGF0YSBGcm9tIExJREMtSURSSTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5UaGUgQ2FuY2VyIEltYWdpbmcgQXJjaGl2ZTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNTwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RElDT008L3Jlc291cmNlVHlwZT4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iRGF0YUN1cmF0b3IiPgogICAgICA8Y29udHJpYnV0b3JOYW1lPlRDSUEgVGVhbTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE1PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9IlRDSUEgU2hvcnQgTmFtZSI+TElEQy1JRFJJPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczExNTQ4LTAwOS0wNDAxLTM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTExOC8xLjM1MjgyMDQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS90Ym1lLjIwMTEuMjE2NzYyMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMTU0OC0wMTItMDcwNi01PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvaGlzYi4yMDEyLjU5PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvYmhpLjIwMTIuNjIxMTYyNzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTQ1LzIzMzA3ODQuMjMzMDg2OTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC40MzA0L2pjcC44LjkuMjI0NS0yMjU1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMTcvMTIuMjAwNjk3MDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTE3LzEyLjIwMDcwMTY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9uc3NtaWMuMjAxMy42ODI5MzY1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvYWNzc2MuMjAxMy42ODEwMjcxPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMTcvMTIuMjA0Mzk2NDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTA5L2piaGkuMjAxNC4yMzYxMzE4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjU0MzAvaWpkaS52Mm4xcDU0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjU3NTMvc2JjYXMuMjAxNS4xMDM3MzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4zMjMzL2JtZS0xNTE0MTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9pa3QuMjAxNS43Mjg4NzcwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvd2lzcC4yMDE1LjcxMzkxODY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9mdXp6LWllZWUuMjAxNS43MzM4MDQxPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvY3J2LjIwMTUuMjU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTA4OC8wMDMxLTkxNTUvNjAvMy8xMzA3PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5tZWRpYS4yMDE1LjAyLjAwMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY29tcGJpb21lZC4yMDE0LjEyLjAwODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouYWNyYS4yMDE0LjEyLjAwNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTY2L2ptaWhpLjIwMTYuMTczMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTE3LzEyLjIyMTY3NDc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmplc3RjaC4yMDE2LjA1LjAwNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDgwLzIxNjgxMTYzLjIwMTYuMTE5MzQ0NzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTg2L3MxMjkzOC0wMTUtMDEyMC03PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvaWpjbm4uMjAxNi43NzI3MjA1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEwMjc4LTAxNi05ODk0LTk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTQyNTcvaWp1bmVzc3QuMjAxNi45LjEwLjE4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExNzcvMDk1NDQxMTkxNTYxOTk1MTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTMxOS0yMTIxMi04XzY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE4Ni9zMTI5MzgtMDE2LTAyMzktMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY21wYi4yMDE2LjA4LjAwOTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY3JhZC4yMDE3LjAxLjAwMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTMxOS02NzUzNC0zXzE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuOTc5MC8xNjc2LTEyMDIwMzQyNTA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTE1NDgtMDE3LTE2MjYtMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMDI3OC0wMTctMDAyOS04PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjE3MDc3L2V0ZC5rMXN0Z2g5cjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTE3LzEyLjIyNTQ0NDY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtMy0zMTktNjYxNzktN183MzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMzcxL2pvdXJuYWwucG9uZS4wMTg4MjkwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMzE5LTU5ODc2LTVfNzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTMxOS02MzMxNS0yXzUxPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczExNDMyLTAxNi05MDA4LTA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuOTc4MS9pamltYWkuMjAxNy40NTI8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLm1lZGlhLjIwMTcuMDYuMDE1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvbXAuMTIyNzM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE1NS8yMDE3LzgzMTQ3NDA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zcmVwNDMxNjc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+aHR0cHM6Ly9kb2kuaWVlZWNvbXB1dGVyc29jaWV0eS5vcmcvMTAuMTEwOS9pc20uMjAxOC4wMDAxMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MwMDUyMS0wMTgtMzg3Ny0zPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMzgvczQxNTk4LTAxOC0yNzU2OS13PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvbXAuMTI2OTA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLm1hdGNvbS4yMDE4LjAyLjAwMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMTc2MC0wMTgtMTMyNy00PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMTcvMTIuMjI5MzkxODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xODIwMS9pamlzYWUuMjAxODQ0ODQ2MDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTExLzE3NTktNzcxNC4xMjkzMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMTU0OC0wMTgtMTc5NC03PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5wcm9jcy4yMDE3LjEyLjAxNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMDI3OC0wMTgtMDEzNi0xPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExODYvczEyOTM4LTAxOC0wNTI5LXg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTExNy8xLmptaS41LjEuMDE0NTA0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMTcvMTIuMjMwOTUzMDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouamtzdWNpLjIwMTguMDcuMDA1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvbXAuMTMyMDI8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTE1NDgtMDE4LTE3NzQteTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4zMzkwL2FwcDgwNTA4MzI8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTE1NDgtMDE3LTE2OTYtMDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY3JhZC4yMDE4LjEwLjAwODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTQ1LzMzMjg4MzMuMzMyODg3MjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMjIwNC0wMTktMjA4NC00PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvdGVuY29uLjIwMTkuODkyOTMxMzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMzcxL2pvdXJuYWwucG9uZS4wMjEwNTUxPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5jb21wbWVkaW1hZy4yMDE5LjAyLjAwMzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTQ1LzMzNjI3ODkuMzM2MjkzNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTAzMC0zNDA4MC0zXzU2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEwOTE2LTAxOS0xMTkwLXo8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuNTgxNS9pamVtLjIwMTkuMDUuMDQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtOTgxLTEzLTcxNDItNF8xNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMzI0Ni0wMTktMDA4MjItdzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4yMzkxOS9mcnVjdDQ4MTIxLjIwMTkuODk4MTUzNzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouamtzdWNpLjIwMTkuMDIuMDA5PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMwLTMyNjg5LTBfNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDAyL21wLjEzNzczPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5jb21wbWVkaW1hZy4yMDE4LjEwLjAwNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMTU0OC0wMTgtMTg2MS0wPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMzgvczQxNzQ2LTAxOS0wMTk0LXg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTMxOTgtMDE5LTAwODY2LXg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9zbWMuMjAxOS44OTEzODg1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvaWNhd3N0LjIwMTkuODkyMzE0NzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4zMzkwL3MxOTAxMDE5NDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouZWJpb20uMjAxOS4wNS4wNDA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtMy0wMzAtMzIyMjYtN18yNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4yOTAwNy85YzVqPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjUxMjAvaWpjYTIwMTk5MTk3NDE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtMy0wMzAtMzM2NDItNF8xPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvbXAuMTM4Njc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE1OTEvaWplY2UudjEwaTUucHA0NzQ1LTQ3NTE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zNDE1OTgtMDIwLTY0ODI0LTU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmVzd2EuMjAxOS4xMTI4NDg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLnBhdHJlYy4yMDE5LjExLjAxMzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY21wYi4yMDE5LjEwNTE3MjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTA5L2FjY2Vzcy4yMDIwLjMwNDQ5NDE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmNtcGIuMjAyMC4xMDU4Mzk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTI1NTktMDIwLTA5NzUxLTM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwMi9tcC4xNDA3NjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMjAwL2NjaS4xOS4wMDE2NTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMjE5NC0wMjAtMDA1ODQtMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDM4L3M0MTU5OC0wMjAtNjk1MzQtNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTY2L2ptaWhpLjIwMjAuMjk3NjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDM4L3M0MjI1Ni0wMjAtMDE3My02PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczExNTE3LTAyMC0wMjE5Ny03PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjM5OTEvaWppbS52MTRpMTcuMTY2MDc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTE1NDgtMDE5LTAyMDk3LTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuNDAxOC85NzgtMS03OTk4LTIxMjAtNS5jaDAwOTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDAyL2ltYS4yMjUzOTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouYWNyYS4yMDIwLjA3LjAzMDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMzcxL2pvdXJuYWwucG9uZS4wMjMxNDY4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExNTUvMjAyMC84OTc1MDc4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjQwMTUvczEwMTYyMzcyMjA1MDAzMDE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE0NS8zMzk0MTcxLjM0MTM3MzU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwMi9tcC4xMzk5ODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouYmJlLjIwMjEuMDguMDA2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczExNTE3LTAyMS0wMjM3OC15PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvaWNpY3M1MjQ1Ny4yMDIxLjk0NjQ1ODk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMjEwMzcvcWltcy0yMC0xMzU2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEwMjc4LTAyMS0wMDUwNC04PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjE1MDQvaWpiZXQuMjAyMS4xMTYwOTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTYzMS9maXRlZS4yMDAwMjM0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5jb21wYmlvbWVkLjIwMjEuMTA0ODExPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvaW1hLjIyNjIwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjk3ODEvaWppbWFpLjIwMjEuMDUuMDAyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTk4MS0xNi0zODgwLTBfMTM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMzM5MC9kaWFnbm9zdGljczExMTIyMjA4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMwLTkzMTc5LTdfMTY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zNDE0NjctMDIwLTIwNjU3LTQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zNDE1OTctMDIxLTAwODkzLXo8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zNDIwMDMtMDIwLTAxNTM1LTc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9pY2Fzc3AzOTcyOC4yMDIxLjk0MTUwMDY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMzkzNC9tYmUuMjAyMTIwODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY29tcGJpb21lZC4yMDIxLjEwNDI3MjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouZXN3YS4yMDIxLjExNTQ2OTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDM4L3M0MTQ2Ny0wMjEtMjU4NTgtejwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTAzMC04NzczNS00XzE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMjE4MTcvaW5kamNzZS8yMDIxL3YxMmk0LzIxMTIwNDI3MDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDAyL21wLjE1MDc0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEyNTU5LTAyMS0wOTkxNS05PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMwLTg3MjQwLTNfMTk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTExNy8xLmptaS45LjUuMDUyNDAyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5tZWRpYS4yMDIyLjEwMjQ5MTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC40MTAzL2ptcC5qbXBfNjFfMjE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9pc2JpNTI4MjkuMjAyMi45NzYxNDgyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5lanJhZC4yMDIxLjExMDA2ODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC05ODEtMTYtMjQyMi0zXzI0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvdGlwdGVrbm81NjU2OC4yMDIyLjk5NjAyMzM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtMS0wNzE2LTE4MDMtNV8zMzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTA5L2ljY2tlNTcxNzYuMjAyMi45OTYwMDMyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjE4NDIxL3RlbTExMS0zNzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMTA0Mi0wMjItMTI3MjItNTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC41NDA5Ny9oc2V0LnY0aS45MTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE1OTEvaWplY2UudjEyaTUucHA0NzM0LTQ3NDU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTgyODcvamJwZTIyLjA4LjAzMDMwNzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4zMzkwL2RpYWdub3N0aWNzMTIwMjAyNDc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwMi9pbWEuMjI3MjE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9pY2NrZTU3MTc2LjIwMjIuOTk2MDAyNTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4yMTUyL2ptaS42OS4yNDQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zNDE0NjctMDIyLTM0MjU3LXg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwMi9jcGUuNzI1MTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC05ODEtMTYtODEyOS01XzQ1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMxLTE2OTgwLTlfMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTAzMS0xOTgwMy04XzMzPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczExNTE3LTAyMi0wMjY2Ny0wPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczAwMDM0LTAyMy0wMjQxNi0wPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEwMjc4LTAyMy0wMDgyMi16PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMzgvczQxNTk4LTAyMy00NjM0NS16PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjI2NDgxL2Rpcy4yMDIzMDcwM2pjPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5jb2dzeXMuMjAyMy4wMi4wMDM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmJzcGMuMjAyMi4xMDQ1NjM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMzczOTEvaWplZXIuMTEwMjM0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5lc3dhLjIwMjIuMTE4NjYxPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMxLTQzODk1LTBfNDE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAzOC9zNDM4NTYtMDIzLTAwMzg4LTU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE4Ni9zMTMyNDQtMDIzLTAxNTA4LTQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmNvbXBiaW9tZWQuMjAyMy4xMDcyMTk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE4Ni9zMTI4ODAtMDIzLTAxMTI2LXk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTM3MS9qb3VybmFsLnBvbmUuMDI4MjEwNzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4zMzExL21pbmlzeTIwMjMtMDA3PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczAwMzMwLTAyMy0wOTk0Ni13PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEyMDEvOTc4MTAwMzI3NzAwMi00PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMzgvczQxNTk4LTAyMy0zODM1MC16PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczExNTQ4LTAyMy0wMzA0My01PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEyNTMwLTAyMy0wOTU2NC0zPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjMzOTAvaW5mbzgwNDAxMzE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTE1NDgtMDE3LTE2MDUtNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTE3LzEyLjIyNTM5NzM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuNTA3Mi9wcmlzbS81MzkzPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvbXAuMTMxMzU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmluZmZ1cy4yMDE3LjEwLjAwNTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDM4L3M0MTU5OC0wMjAtNTc3MzktODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4yMTAzNy9xaW1zLjIwMTkuMTIuMDI8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMDA1MjEtMDIwLTA0Nzg3LXc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmNtcGJ1cC4yMDI0LjEwMDE1MzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3L3MxMTA0Mi0wMjMtMTc1NzAtNTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDM4L3M0MTU5Ny0wMjQtMDMzMzctNjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTg2L3MxMjg4MC0wMjQtMDEyNDEtNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4yMzkxOS9mcnVjdDYxODcwLjIwMjQuMTA1MTYzNDM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTA5My9qYW1pYS9vY3kwOTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS90aWkuMjAxOC4yODgzNjgwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvZW1iYy4yMDE4Ljg1MTIzNzY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9hY2Nlc3MuMjAxOC4yODg5MzUwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvdG1pLjIwMTguMjg3NjUxMDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTA5L21zcC4yMDE5LjI5MDA5OTM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTA5Ny9ydGkuMDAwMDAwMDAwMDAwMDM4ODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTY2L2ptaWhpLjIwMTkuMjc5MDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTAzMC01MjE4MC02XzM0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDIvbXAuMTQ0NDU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtMy0wMzAtNjAzNjUtNl8yPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMwLTU5NzI1LTJfNTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwMi9pbWEuMjI0NDM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9lbWJjNDQxMDkuMjAyMC45MTc1NjQ5PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMwLTU5NzEwLThfMzM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTEwNDItMDIwLTA5ODk0LTM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy9zMTAyNzgtMDIwLTAwMzI2LTA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMzM5MC9kaWFnbm9zdGljczExMDcxMjI0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwODgvMTM2MS02NDIwL2FjMTA0ZjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTExLzE3NTQtOTQ4NS4xMzI2MTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTAzMC03ODE5MS0wXzUyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5wYXRjb2cuMjAyMS4xMDc4MjU8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMzMxNjYvYWV0aWMuMjAyMS4wMi4wMDc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTUwNC9pamNhZXQuMjAyMS4xMTU5NDM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTA4OC8xMzYxLTY1NjAvYWM0MzE2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvdG1pLjIwMjEuMzA2NjE2MTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDk3L2Njby4wMDAwMDAwMDAwMDAwNzk2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvOTc4LTMtMDMxLTEyMDUzLTRfNTY8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAwNy85NzgtMy0wMzEtMTY0NDMtOV8yPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjMzODkvZm1lZC4yMDIxLjcyOTI4NzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2oubWx3YS4yMDIyLjEwMDI5ODwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2ouY29tcGJpb21lZC4yMDIyLjEwNjAyMDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDE2L2oucGF0dGVyLjIwMjIuMTAwNjU3PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjMyNjA0L2lhc2MuMjAyMi4wMjUwNjA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMjk5MS85NzgtOTQtNjQ2My0yNTItMV8xMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDg4LzEzNjEtNjU2MC9hY2VmOGM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMzM5MC9kaWFnbm9zdGljczEzMjIzNDg1PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5jb21wYmlvbWVkLjIwMjQuMTA5MDQ2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjMzODkvZm9uYy4yMDI0LjE0MzUwNDE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTAxNi9qLmNvbXBiaW9tZWQuMjAyNC4xMDk0NjE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9jc2l0c3M2NDA0Mi4yMDI0LjEwODE2ODU0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMDcvczEwMDQ0LTAyNS0wMTQxNi14PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvaXNtLjIwMTguMDAwMTI8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuNDEwOC9lYWkuMTctMTEtMjAyMy4yMzQyODMyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjU0MjU0LzI3NTMtODgxOC8yMDI0LmxhMTk4NTE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTE0NS8zMDEyNDMwLjMwMTI2NzA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9hY2Nlc3MuMjAyNC4zNDAzMTA2PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjIyMDM0L2FwamNwLjIwMTcuMTguMTEuMzE0MzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDA3Lzk3OC0zLTAzMS02Mzc4Ny0yXzM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTEwOS9lY2FpNjE1MDMuMjAyNC4xMDYwNzQzNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMTA5L2lzYmkuMjAxOS44NzU5Mjg5PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjExMDkvaWNjZHM2MDczNC4yMDI0LjEwNTYwMzcyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0NpdGVkQnkiPjEwLjEwMTYvai5hcnRtZWQuMjAyNC4xMDI5MzA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMjQ5NjMvaWpjYWkuMjAyNC82MTA8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzQ2l0ZWRCeSI+MTAuMTcwNzcvZXRkLjY2a2stdTJiMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNDaXRlZEJ5Ij4xMC4xMDAyL2ltYS43MDAyMzwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzLz4KICA8Zm9ybWF0cy8+CiAgPHZlcnNpb24+NDwvdmVyc2lvbj4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvMy4wL2xlZ2FsY29kZSIgcmlnaHRzSWRlbnRpZmllcj0iY2MtYnktMy4wIiByaWdodHNJZGVudGlmaWVyU2NoZW1lPSJTUERYIiBzY2hlbWVVUkk9Imh0dHBzOi8vc3BkeC5vcmcvbGljZW5zZXMvIj5DcmVhdGl2ZSBDb21tb25zIEF0dHJpYnV0aW9uIDMuMCBVbnBvcnRlZDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoZSBMdW5nIEltYWdlIERhdGFiYXNlIENvbnNvcnRpdW0gaW1hZ2UgY29sbGVjdGlvbiAoTElEQy1JRFJJKSBjb25zaXN0cyBvZiBkaWFnbm9zdGljIGFuZCBsdW5nIGNhbmNlciBzY3JlZW5pbmcgdGhvcmFjaWMgY29tcHV0ZWQgdG9tb2dyYXBoeSAoQ1QpIHNjYW5zIHdpdGggbWFya2VkLXVwIGFubm90YXRlZCBsZXNpb25zLiBJdCBpcyBhIHdlYi1hY2Nlc3NpYmxlIGludGVybmF0aW9uYWwgcmVzb3VyY2UgZm9yIGRldmVsb3BtZW50LCB0cmFpbmluZywgYW5kIGV2YWx1YXRpb24gb2YgY29tcHV0ZXItYXNzaXN0ZWQgZGlhZ25vc3RpYyAoQ0FEKSBtZXRob2RzIGZvciBsdW5nIGNhbmNlciBkZXRlY3Rpb24gYW5kIGRpYWdub3Npcy4gSW5pdGlhdGVkIGJ5IHRoZSBOYXRpb25hbCBDYW5jZXIgSW5zdGl0dXRlIChOQ0kpLCBmdXJ0aGVyIGFkdmFuY2VkIGJ5IHRoZSBGb3VuZGF0aW9uIGZvciB0aGUgTmF0aW9uYWwgSW5zdGl0dXRlcyBvZiBIZWFsdGggKEZOSUgpLCBhbmQgYWNjb21wYW5pZWQgYnkgdGhlIEZvb2QgYW5kIERydWcgQWRtaW5pc3RyYXRpb24gKEZEQSkgdGhyb3VnaCBhY3RpdmUgcGFydGljaXBhdGlvbiwgdGhpcyBwdWJsaWMtcHJpdmF0ZSBwYXJ0bmVyc2hpcCBkZW1vbnN0cmF0ZXMgdGhlIHN1Y2Nlc3Mgb2YgYSBjb25zb3J0aXVtIGZvdW5kZWQgb24gYSBjb25zZW5zdXMtYmFzZWQgcHJvY2Vzcy4gU2V2ZW4gYWNhZGVtaWMgY2VudGVycyBhbmQgZWlnaHQgbWVkaWNhbCBpbWFnaW5nIGNvbXBhbmllcyBjb2xsYWJvcmF0ZWQgdG8gY3JlYXRlIHRoaXMgZGF0YSBzZXQgd2hpY2ggY29udGFpbnMgMTAxOCBjYXNlcy4gRWFjaCBzdWJqZWN0IGluY2x1ZGVzIGltYWdlcyBmcm9tIGEgY2xpbmljYWwgdGhvcmFjaWMgQ1Qgc2NhbiBhbmQgYW4gYXNzb2NpYXRlZCBYTUwgZmlsZSB0aGF0IHJlY29yZHMgdGhlIHJlc3VsdHMgb2YgYSB0d28tcGhhc2UgaW1hZ2UgYW5ub3RhdGlvbiBwcm9jZXNzIHBlcmZvcm1lZCBieSBmb3VyIGV4cGVyaWVuY2VkIHRob3JhY2ljIHJhZGlvbG9naXN0cy4gSW4gdGhlIGluaXRpYWwgYmxpbmRlZC1yZWFkIHBoYXNlLCBlYWNoIHJhZGlvbG9naXN0IGluZGVwZW5kZW50bHkgcmV2aWV3ZWQgZWFjaCBDVCBzY2FuIGFuZCBtYXJrZWQgbGVzaW9ucyBiZWxvbmdpbmcgdG8gb25lIG9mIHRocmVlIGNhdGVnb3JpZXMgKCJub2R1bGUgJmFtcDtndDsgb3IgPTMgbW0sIiAibm9kdWxlICZhbXA7bHQ7MyBtbSwiIGFuZCAibm9uLW5vZHVsZSAmYW1wO2d0OyBvciA9MyBtbSIpLiBJbiB0aGUgc3Vic2VxdWVudCB1bmJsaW5kZWQtcmVhZCBwaGFzZSwgZWFjaCByYWRpb2xvZ2lzdCBpbmRlcGVuZGVudGx5IHJldmlld2VkIHRoZWlyIG93biBtYXJrcyBhbG9uZyB3aXRoIHRoZSBhbm9ueW1pemVkIG1hcmtzIG9mIHRoZSB0aHJlZSBvdGhlciByYWRpb2xvZ2lzdHMgdG8gcmVuZGVyIGEgZmluYWwgb3Bpbmlvbi4gVGhlIGdvYWwgb2YgdGhpcyBwcm9jZXNzIHdhcyB0byBpZGVudGlmeSBhcyBjb21wbGV0ZWx5IGFzIHBvc3NpYmxlIGFsbCBsdW5nIG5vZHVsZXMgaW4gZWFjaCBDVCBzY2FuIHdpdGhvdXQgcmVxdWlyaW5nIGZvcmNlZCBjb25zZW5zdXMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K",
+      "url": "https://www.cancerimagingarchive.net/collection/lidc-idri/",
+      "contentUrl": [],
+      "metadataVersion": 155,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "mds",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 105654,
+      "viewsOverTime": [
+        {
+          "yearMonth": "2024-08",
+          "total": 1584
+        },
+        {
+          "yearMonth": "2024-09",
+          "total": 3460
+        },
+        {
+          "yearMonth": "2024-10",
+          "total": 4265
+        },
+        {
+          "yearMonth": "2024-11",
+          "total": 4041
+        },
+        {
+          "yearMonth": "2024-12",
+          "total": 3317
+        },
+        {
+          "yearMonth": "2025-01",
+          "total": 3178
+        },
+        {
+          "yearMonth": "2025-02",
+          "total": 3806
+        },
+        {
+          "yearMonth": "2025-03",
+          "total": 4845
+        },
+        {
+          "yearMonth": "2025-04",
+          "total": 4423
+        },
+        {
+          "yearMonth": "2025-05",
+          "total": 4229
+        },
+        {
+          "yearMonth": "2025-06",
+          "total": 3485
+        },
+        {
+          "yearMonth": "2025-07",
+          "total": 3917
+        },
+        {
+          "yearMonth": "2025-08",
+          "total": 3447
+        },
+        {
+          "yearMonth": "2025-09",
+          "total": 4218
+        },
+        {
+          "yearMonth": "2025-10",
+          "total": 6398
+        },
+        {
+          "yearMonth": "2025-11",
+          "total": 4514
+        },
+        {
+          "yearMonth": "2025-12",
+          "total": 4198
+        },
+        {
+          "yearMonth": "2026-01",
+          "total": 4013
+        },
+        {
+          "yearMonth": "2026-02",
+          "total": 4185
+        },
+        {
+          "yearMonth": "2026-03",
+          "total": 4995
+        },
+        {
+          "yearMonth": "2026-04",
+          "total": 4886
+        },
+        {
+          "yearMonth": "2026-05",
+          "total": 4414
+        },
+        {
+          "yearMonth": "2026-06",
+          "total": 4168
+        },
+        {
+          "yearMonth": "2026-07",
+          "total": 3689
+        },
+        {
+          "yearMonth": "2026-08",
+          "total": 3673
+        },
+        {
+          "yearMonth": "2026-09",
+          "total": 4306
+        }
+      ],
+      "downloadCount": 0,
+      "downloadsOverTime": [
+        {
+          "yearMonth": "2024-08",
+          "total": 0
+        },
+        {
+          "yearMonth": "2024-09",
+          "total": 0
+        },
+        {
+          "yearMonth": "2024-10",
+          "total": 0
+        },
+        {
+          "yearMonth": "2024-11",
+          "total": 0
+        },
+        {
+          "yearMonth": "2024-12",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-01",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-02",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-03",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-04",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-05",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-06",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-07",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-08",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-09",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-10",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-11",
+          "total": 0
+        },
+        {
+          "yearMonth": "2025-12",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-01",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-02",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-03",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-04",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-05",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-06",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-07",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-08",
+          "total": 0
+        },
+        {
+          "yearMonth": "2026-09",
+          "total": 0
+        }
+      ],
+      "referenceCount": 3,
+      "citationCount": 310,
+      "citationsOverTime": [
+        {
+          "year": "2020",
+          "total": 2
+        },
+        {
+          "year": "2021",
+          "total": 1
+        },
+        {
+          "year": "2022",
+          "total": 15
+        },
+        {
+          "year": "2023",
+          "total": 6
+        },
+        {
+          "year": "2024",
+          "total": 203
+        },
+        {
+          "year": "2025",
+          "total": 67
+        },
+        {
+          "year": "2026",
+          "total": 16
+        }
+      ],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2015-07-15T22:42:20.000Z",
+      "registered": "2015-07-15T22:42:22.000Z",
+      "published": "2015",
+      "updated": "2025-06-01T01:01:20.000Z"
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "nihnci.tcia",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "nihnci",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": "10.7937/k9/tcia.2015.lo9ql9sx",
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": [
+          {
+            "id": "10.1002/mp.13135",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.13202",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.12690",
+            "type": "dois"
+          }
+        ]
+      },
+      "citations": {
+        "data": [
+          {
+            "id": "10.5281/zenodo.23414050",
+            "type": "dois"
+          },
+          {
+            "id": "10.5281/zenodo.23414049",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-032-38069-2_45",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-032-37739-5_17",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/med4.70085",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-032-38407-2_21",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s44443-026-01096-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-981-92-3541-4_34",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s12911-026-03442-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1080/14737140.2026.2689719",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s12553-026-01071-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s00521-026-12078-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-018-0136-1",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/1361-6501/ae4f09",
+            "type": "dois"
+          },
+          {
+            "id": "10.1134/s106456242370103x",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.ejmp.2025.105692",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.bspc.2026.109677",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s13755-025-00414-x",
+            "type": "dois"
+          },
+          {
+            "id": "10.1183/23120541.00377-2025",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/2057-1976/ae21e6",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.media.2020.101823",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/diagnostics13223485",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.cmpb.2019.105172",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10439-025-03805-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41597-025-05666-6",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/1361-6560/acef8c",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/2057-1976/ad4360",
+            "type": "dois"
+          },
+          {
+            "id": "10.1101/2025.05.01.25326784",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/ima.70023",
+            "type": "dois"
+          },
+          {
+            "id": "10.17077/etd.66kk-u2b1",
+            "type": "dois"
+          },
+          {
+            "id": "10.24963/ijcai.2024/610",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.artmed.2024.102930",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/iccds60734.2024.10560372",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/isbi.2019.8759289",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/ecai61503.2024.10607434",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-031-63787-2_3",
+            "type": "dois"
+          },
+          {
+            "id": "10.22034/apjcp.2017.18.11.3143",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/access.2024.3403106",
+            "type": "dois"
+          },
+          {
+            "id": "10.1145/3012430.3012670",
+            "type": "dois"
+          },
+          {
+            "id": "10.54254/2753-8818/2024.la19851",
+            "type": "dois"
+          },
+          {
+            "id": "10.4108/eai.17-11-2023.2342832",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10044-025-01416-x",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/ism.2018.00012",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/csitss64042.2024.10816854",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2024.109461",
+            "type": "dois"
+          },
+          {
+            "id": "10.3389/fonc.2024.1435041",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2024.109046",
+            "type": "dois"
+          },
+          {
+            "id": "10.2991/978-94-6463-252-1_12",
+            "type": "dois"
+          },
+          {
+            "id": "10.32604/iasc.2022.025060",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.patter.2022.100657",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2022.106020",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.mlwa.2022.100298",
+            "type": "dois"
+          },
+          {
+            "id": "10.3389/fmed.2021.729287",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-031-16443-9_2",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-031-12053-4_56",
+            "type": "dois"
+          },
+          {
+            "id": "10.1097/cco.0000000000000796",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/tmi.2021.3066161",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/1361-6560/ac4316",
+            "type": "dois"
+          },
+          {
+            "id": "10.1504/ijcaet.2021.115943",
+            "type": "dois"
+          },
+          {
+            "id": "10.33166/aetic.2021.02.007",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.patcog.2021.107825",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-78191-0_52",
+            "type": "dois"
+          },
+          {
+            "id": "10.1111/1754-9485.13261",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/1361-6420/ac104f",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/diagnostics11071224",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-020-00326-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11042-020-09894-3",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-59710-8_33",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/embc44109.2020.9175649",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/ima.22443",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-59725-2_58",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-60365-6_2",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.14445",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-52180-6_34",
+            "type": "dois"
+          },
+          {
+            "id": "10.1166/jmihi.2019.2790",
+            "type": "dois"
+          },
+          {
+            "id": "10.1097/rti.0000000000000388",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/msp.2019.2900993",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/tmi.2018.2876510",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/access.2018.2889350",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/embc.2018.8512376",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/tii.2018.2883680",
+            "type": "dois"
+          },
+          {
+            "id": "10.1093/jamia/ocy098",
+            "type": "dois"
+          },
+          {
+            "id": "10.23919/fruct61870.2024.10516343",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s12880-024-01241-4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41597-024-03337-6",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11042-023-17570-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.cmpbup.2024.100153",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s00521-020-04787-w",
+            "type": "dois"
+          },
+          {
+            "id": "10.21037/qims.2019.12.02",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-020-57739-8",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.inffus.2017.10.005",
+            "type": "dois"
+          },
+          {
+            "id": "10.5072/prism/5393",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2253973",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-017-1605-6",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/info8040131",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s12530-023-09564-3",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-023-03043-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-023-38350-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1201/9781003277002-4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s00330-023-09946-w",
+            "type": "dois"
+          },
+          {
+            "id": "10.3311/minisy2023-007",
+            "type": "dois"
+          },
+          {
+            "id": "10.1371/journal.pone.0282107",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s12880-023-01126-y",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2023.107219",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s13244-023-01508-4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s43856-023-00388-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-031-43895-0_41",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.eswa.2022.118661",
+            "type": "dois"
+          },
+          {
+            "id": "10.37391/ijeer.110234",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.bspc.2022.104563",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.cogsys.2023.02.003",
+            "type": "dois"
+          },
+          {
+            "id": "10.26481/dis.20230703jc",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-023-46345-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-023-00822-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s00034-023-02416-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11517-022-02667-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-031-19803-8_33",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-031-16980-9_2",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-981-16-8129-5_45",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/cpe.7251",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41467-022-34257-x",
+            "type": "dois"
+          },
+          {
+            "id": "10.2152/jmi.69.244",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/iccke57176.2022.9960025",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/ima.22721",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/diagnostics12020247",
+            "type": "dois"
+          },
+          {
+            "id": "10.18287/jbpe22.08.030307",
+            "type": "dois"
+          },
+          {
+            "id": "10.11591/ijece.v12i5.pp4734-4745",
+            "type": "dois"
+          },
+          {
+            "id": "10.54097/hset.v4i.918",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11042-022-12722-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.18421/tem111-37",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/iccke57176.2022.9960032",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-1-0716-1803-5_33",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/tiptekno56568.2022.9960233",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-981-16-2422-3_24",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.ejrad.2021.110068",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/isbi52829.2022.9761482",
+            "type": "dois"
+          },
+          {
+            "id": "10.4103/jmp.jmp_61_21",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.media.2022.102491",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/1.jmi.9.5.052402",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-87240-3_19",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s12559-021-09915-9",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.15074",
+            "type": "dois"
+          },
+          {
+            "id": "10.21817/indjcse/2021/v12i4/211204270",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-87735-4_1",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41467-021-25858-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.eswa.2021.115469",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2021.104272",
+            "type": "dois"
+          },
+          {
+            "id": "10.3934/mbe.2021208",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/icassp39728.2021.9415006",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s42003-020-01535-7",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41597-021-00893-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41467-020-20657-4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-93179-7_16",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/diagnostics11122208",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-981-16-3880-0_13",
+            "type": "dois"
+          },
+          {
+            "id": "10.9781/ijimai.2021.05.002",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/ima.22620",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2021.104811",
+            "type": "dois"
+          },
+          {
+            "id": "10.1631/fitee.2000234",
+            "type": "dois"
+          },
+          {
+            "id": "10.1504/ijbet.2021.116098",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-021-00504-8",
+            "type": "dois"
+          },
+          {
+            "id": "10.21037/qims-20-1356",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/icics52457.2021.9464589",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11517-021-02378-y",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.bbe.2021.08.006",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.13998",
+            "type": "dois"
+          },
+          {
+            "id": "10.1145/3394171.3413735",
+            "type": "dois"
+          },
+          {
+            "id": "10.4015/s1016237220500301",
+            "type": "dois"
+          },
+          {
+            "id": "10.1155/2020/8975078",
+            "type": "dois"
+          },
+          {
+            "id": "10.1371/journal.pone.0231468",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.acra.2020.07.030",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/ima.22539",
+            "type": "dois"
+          },
+          {
+            "id": "10.4018/978-1-7998-2120-5.ch009",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-019-02097-8",
+            "type": "dois"
+          },
+          {
+            "id": "10.3991/ijim.v14i17.16607",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11517-020-02197-7",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s42256-020-0173-6",
+            "type": "dois"
+          },
+          {
+            "id": "10.1166/jmihi.2020.2976",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-020-69534-6",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s12194-020-00584-1",
+            "type": "dois"
+          },
+          {
+            "id": "10.1200/cci.19.00165",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.14076",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s12559-020-09751-3",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.cmpb.2020.105839",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/access.2020.3044941",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.patrec.2019.11.013",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.eswa.2019.112848",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-020-64824-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.11591/ijece.v10i5.pp4745-4751",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.13867",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-33642-4_1",
+            "type": "dois"
+          },
+          {
+            "id": "10.5120/ijca2019919741",
+            "type": "dois"
+          },
+          {
+            "id": "10.29007/9c5j",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-32226-7_26",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.ebiom.2019.05.040",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/s19010194",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/icawst.2019.8923147",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/smc.2019.8913885",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s13198-019-00866-x",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41746-019-0194-x",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-018-1861-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compmedimag.2018.10.006",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.13773",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-32689-0_4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.jksuci.2019.02.009",
+            "type": "dois"
+          },
+          {
+            "id": "10.23919/fruct48121.2019.8981537",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s13246-019-00822-w",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-981-13-7142-4_14",
+            "type": "dois"
+          },
+          {
+            "id": "10.5815/ijem.2019.05.04",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10916-019-1190-z",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-030-34080-3_56",
+            "type": "dois"
+          },
+          {
+            "id": "10.1145/3362789.3362936",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compmedimag.2019.02.003",
+            "type": "dois"
+          },
+          {
+            "id": "10.1371/journal.pone.0210551",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/tencon.2019.8929313",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s12204-019-2084-4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1145/3328833.3328872",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.crad.2018.10.008",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-017-1696-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/app8050832",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-018-1774-y",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.jksuci.2018.07.005",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2309530",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/1.jmi.5.1.014504",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s12938-018-0529-x",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.procs.2017.12.016",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-018-1794-7",
+            "type": "dois"
+          },
+          {
+            "id": "10.1111/1759-7714.12931",
+            "type": "dois"
+          },
+          {
+            "id": "10.18201/ijisae.2018448460",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2293918",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11760-018-1327-4",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.matcom.2018.02.001",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-018-27569-w",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s00521-018-3877-3",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/srep43167",
+            "type": "dois"
+          },
+          {
+            "id": "10.1155/2017/8314740",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.12273",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.media.2017.06.015",
+            "type": "dois"
+          },
+          {
+            "id": "10.9781/ijimai.2017.452",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11432-016-9008-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-319-63315-2_51",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-319-59876-5_7",
+            "type": "dois"
+          },
+          {
+            "id": "10.1371/journal.pone.0188290",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-319-66179-7_73",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2254446",
+            "type": "dois"
+          },
+          {
+            "id": "10.17077/etd.k1stgh9r",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-017-0029-8",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-017-1626-1",
+            "type": "dois"
+          },
+          {
+            "id": "10.9790/1676-1202034250",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-319-67534-3_1",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.crad.2017.01.002",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.cmpb.2016.08.009",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s12938-016-0239-1",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/978-3-319-21212-8_6",
+            "type": "dois"
+          },
+          {
+            "id": "10.1177/0954411915619951",
+            "type": "dois"
+          },
+          {
+            "id": "10.14257/ijunesst.2016.9.10.18",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-016-9894-9",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/ijcnn.2016.7727205",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s12938-015-0120-7",
+            "type": "dois"
+          },
+          {
+            "id": "10.1080/21681163.2016.1193447",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.jestch.2016.05.006",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2216747",
+            "type": "dois"
+          },
+          {
+            "id": "10.1166/jmihi.2016.1731",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.acra.2014.12.004",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.compbiomed.2014.12.008",
+            "type": "dois"
+          },
+          {
+            "id": "10.1016/j.media.2015.02.002",
+            "type": "dois"
+          },
+          {
+            "id": "10.1088/0031-9155/60/3/1307",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/crv.2015.25",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/fuzz-ieee.2015.7338041",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/wisp.2015.7139186",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/ikt.2015.7288770",
+            "type": "dois"
+          },
+          {
+            "id": "10.3233/bme-151418",
+            "type": "dois"
+          },
+          {
+            "id": "10.5753/sbcas.2015.10373",
+            "type": "dois"
+          },
+          {
+            "id": "10.5430/ijdi.v2n1p54",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/jbhi.2014.2361318",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/acssc.2013.6810271",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2043964",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/nssmic.2013.6829365",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2007016",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2006970",
+            "type": "dois"
+          },
+          {
+            "id": "10.4304/jcp.8.9.2245-2255",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/bhi.2012.6211627",
+            "type": "dois"
+          },
+          {
+            "id": "10.1145/2330784.2330869",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/hisb.2012.59",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-012-0706-5",
+            "type": "dois"
+          },
+          {
+            "id": "10.1118/1.3528204",
+            "type": "dois"
+          },
+          {
+            "id": "10.1109/tbme.2011.2167621",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s11548-009-0401-3",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10044-025-01425-w",
+            "type": "dois"
+          },
+          {
+            "id": "10.55452/1998-6688-2024-21-4-32-44",
+            "type": "dois"
+          },
+          {
+            "id": "10.1007/s10278-024-01138-2",
+            "type": "dois"
+          },
+          {
+            "id": "10.3233/jifs-179672",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.13135",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.12690",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.13202",
+            "type": "dois"
+          },
+          {
+            "id": "10.1002/mp.16937",
+            "type": "dois"
+          },
+          {
+            "id": "10.1038/s41598-023-46433-0",
+            "type": "dois"
+          },
+          {
+            "id": "10.1186/s40658-021-00426-y",
+            "type": "dois"
+          },
+          {
+            "id": "10.1145/3467471",
+            "type": "dois"
+          },
+          {
+            "id": "10.1080/21655979.2020.1807125",
+            "type": "dois"
+          },
+          {
+            "id": "10.1117/12.2511856",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/s22166312",
+            "type": "dois"
+          },
+          {
+            "id": "10.21203/rs.3.rs-1912967/v1",
+            "type": "dois"
+          },
+          {
+            "id": "10.1080/21681163.2022.2099300",
+            "type": "dois"
+          },
+          {
+            "id": "10.1080/0952813x.2022.2093980",
+            "type": "dois"
+          },
+          {
+            "id": "10.2174/1381612826666201125110710",
+            "type": "dois"
+          },
+          {
+            "id": "10.5281/zenodo.6559584",
+            "type": "dois"
+          },
+          {
+            "id": "10.5281/zenodo.6559583",
+            "type": "dois"
+          },
+          {
+            "id": "10.1101/2022.05.22.22275410",
+            "type": "dois"
+          },
+          {
+            "id": "10.3390/app10072591",
+            "type": "dois"
+          }
+        ]
+      },
+      "parts": {
+        "data": []
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": []
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "new_result_rows_verified": 534,
+  "new_raw_files_verified": 96,
+  "maximum_rank_regeneration_error": 0.0,
+  "uncertainty": "Intervals conditional on each shared bank; identical rho-zero signal rows are not independent."
+}

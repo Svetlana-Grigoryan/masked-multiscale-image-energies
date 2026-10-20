@@ -1,0 +1,8 @@
+{
+  "fresh_audit_rows_verified": 210,
+  "power_rows_verified": 2400,
+  "robustness_rows_verified": 120,
+  "permutation_rows_verified": 72,
+  "compilation_logs_clean": false,
+  "note": "Counts verified from raw p-values; not a certification of novelty or proof correctness."
+}

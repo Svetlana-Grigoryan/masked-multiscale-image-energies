@@ -1,0 +1,37 @@
+{
+  "main_pages": 27,
+  "supplement_pages": 20,
+  "bibliography_entries": 44,
+  "original_entries": 37,
+  "all_entries_cited_in_main": true,
+  "original_labels": 98,
+  "original_labels_preserved_across_documents": true,
+  "original_result_files_unchanged": 106,
+  "clean_compilation": true,
+  "original_result_verification": {
+    "fresh_audit_rows_verified": 210,
+    "power_rows_verified": 2400,
+    "robustness_rows_verified": 120,
+    "permutation_rows_verified": 72,
+    "compilation_logs_clean": true,
+    "note": "Counts verified from raw p-values; not a certification of novelty or proof correctness."
+  },
+  "paired_result_verification": {
+    "new_result_rows_verified": 534,
+    "new_raw_files_verified": 96,
+    "maximum_rank_regeneration_error": 0.0,
+    "uncertainty": "Intervals conditional on each shared bank; identical rho-zero signal rows are not independent."
+  },
+  "landsat_verification": {
+    "fresh_audit_rows": 90,
+    "power_rows": 405,
+    "all_power_rank_max_error": 0.0,
+    "fresh_tests_regenerated": 27,
+    "numerical_pairs": 15,
+    "benchmark_rows": 20,
+    "source_hash_verified": true,
+    "note": "Original stochastic studies not rerun. This separate pilot checks simulated added noise, not original Landsat instrument noise."
+  },
+  "source_sha256": "d7cbe932c7ed74a627706a9e9df99f706df3e5abc7d45a49e9d00677a6b09eb4",
+  "limitations": "Existing stochastic records verified; not all studies rerun. Real-image guarantees concern controlled added noise. No absolute-priority or global rounding-error certification."
+}

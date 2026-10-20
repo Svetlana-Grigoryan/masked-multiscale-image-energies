@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "os": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "cpu": "AMD EPYC 9V74 80-Core Processor",
+  "thread_policy": "one BLAS thread; fresh separate worker for each timing",
+  "exclusions": "imports, file I/O, input-mask construction excluded; moments, factorization, RNG, preprocessing, statistics, bank sorting and ranks included",
+  "scopes": "full new test with b=999; shared bank amortized over exactly 20 observations; no whole-test O(n) speedup claim"
+}

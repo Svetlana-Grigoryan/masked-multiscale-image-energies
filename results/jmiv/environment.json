@@ -1,0 +1,9 @@
+{
+  "cpu": "INTEL(R) XEON(R) PLATINUM 8573C",
+  "os": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pywavelets": "1.8.0",
+  "cgroup_memory_limit": "8589934592",
+  "cpu_affinity": 9
+}
