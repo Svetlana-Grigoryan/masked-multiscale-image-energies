@@ -38,4 +38,6 @@ Results concern controlled-noise experiments using fixed input templates; they d
 **No general code license is granted in this preliminary public-release candidate.** Obtain approval from all relevant code rightsholders and add an appropriate license (e.g. MIT or BSD-3-Clause) before publication. Third-party inputs retain their own terms; consult `THIRD_PARTY_NOTICES.md`, `data/new_templates/SOURCE_AND_RIGHTS.md` and `landsat_pilot/data/RASTERIO_DATA_README.rst`. Do not claim original-code licensing rights for third-party assets.
 
 ## Citation and archiving
-Use `CITATION.cff` for authorship and title. After creating a GitHub release, archive that release with Zenodo and add the actual version DOI and repository URL to this README and the citation metadata. No DOI has been assigned in this file.
+This software is archived on Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.23509111
